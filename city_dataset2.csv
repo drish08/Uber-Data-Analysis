@@ -1,0 +1,501 @@
+city_id,city_name,country,continent,population,regulatory_status,market_competition,number_of_drivers,number_of_rides,avg_fare,avg_wait_time_min,uber_services,major_competitors
+9d978b1c-6617-4cf6-95c4-95dc9a248d70,Port Joseph,Senegal,South America,4981867.0,Restricted,Medium,15141,84106,27.507420405826522,3.7078498215477924,UberX,Grab
+b7408700-0d17-4705-920d-26a080d0e4a5,Port Shannonside,France,Europe,4901993.0,Banned,Low,23664,209575,64.40836896865186,17.344457517919054,UberX,Local Taxis
+3aecee16-ccd8-4805-881a-19e1095cccd7,Lake Donnaville,Marshall Islands,South America,2177603.0,Restricted,Low,9516,19003,195.3068642150067,6.577905225807464,UberPool,Lyft
+0a07d46b-02fd-4a58-90b5-94b4ce68e2f9,North Phyllis,Burundi,North America,,Allowed,High,18143,228002,56.610777735564106,13.28088413152124,UberX,Local Taxis
+c6c6994a-4bab-41fe-a2eb-66908cedb34e,Lake Patrick,Liechtenstein,South America,,Restricted,Medium,8401,26567,11.111731920644011,19.03867776357973,UberX,Local Taxis
+ac3579e7-9413-4035-bc01-196de9265655,Port Teresaborough,Paraguay,Europe,7249966.0,Allowed,Medium,49540,437377,80.302122105521,10.775314764327806,UberPool,Local Taxis
+1e597caa-9833-4731-87ba-630539630161,Glennfurt,New Caledonia,Europe,7497874.0,Allowed,High,16745,108717,70.67443783751837,5.158379319450745,UberX,Local Taxis
+ebcb9f60-0c76-472e-8aa3-ff690d7bf71a,East Caitlinside,Belize,Africa,5076291.0,Restricted,Medium,18390,238741,78.99201394989541,13.117895414663133,UberEats,Lyft
+2af55871-a9c6-4420-bca9-2508f3ca31f5,Flemingview,Panama,Africa,,Banned,Low,26094,8912,82.22270091406483,5.111143390929665,UberPool,Lyft
+6a09ab34-f46d-4e1f-b95c-300a7c21d446,Lynchchester,Moldova,Europe,,Allowed,Low,7829,306152,38.65781087646513,6.143278181453038,UberEats,Grab
+07062ab2-65f9-49da-a9dc-6ccf680c1a2c,Danielleland,El Salvador,North America,,Allowed,Low,15499,464452,53.62088951682876,13.890461751106837,UberEats,Ola
+1d3cc53c-17ae-48e1-ba7f-0af7f327b503,East Wendyside,Vanuatu,Asia,8346997.0,Banned,High,26449,141610,52.46130865834541,18.02937460430794,UberEats,Ola
+592ab64c-8dc3-4085-a3ea-4656097865cc,Teresaborough,Kazakhstan,Asia,,Banned,Low,19503,136986,91.15898707459004,16.56992595831607,UberX,Local Taxis
+89b3c4f3-8c3f-41bc-a334-45e464e67673,Lake Lisa,South Africa,Asia,7208637.0,Allowed,High,48375,42437,16.959590223255496,16.942953797352583,UberPool,Ola
+3a31ae35-8485-46bb-a30e-8c8e112ef9c2,Port Douglas,Antarctica (the territory South of 60 deg S),Australia,1132190.0,Restricted,Low,8349,315888,53.37327660441772,2.0144368409806286,UberPool,Local Taxis
+00f30ae4-a8ce-4ed2-a23b-b14f12eb3dbf,West Heathermouth,British Indian Ocean Territory (Chagos Archipelago),Africa,5783333.0,Restricted,Medium,34932,414572,83.62104436459403,15.484342115202633,UberX,Grab
+2744fe1f-3299-4dc4-b3f9-5d2be2f9f17f,Allisonview,Uganda,Australia,6012440.0,Banned,Medium,44586,377115,33.51336485891569,6.903543150659547,UberEats,Lyft
+ddce1b91-2201-4920-a6b3-250c89f3ba93,East Cody,South Georgia and the South Sandwich Islands,Australia,8370535.0,Banned,High,35901,441625,96.37388358170311,9.085536580034168,UberEats,Grab
+021ea623-ec1e-4aeb-a92a-cbc984fd126e,New Jacobborough,Egypt,Australia,919119.0,Allowed,Medium,16987,346133,55.9231066233332,12.956659878506905,UberPool,Lyft
+1bb0cff3-0b1a-4523-a1cb-19f1f9ec6a26,North Amyborough,Equatorial Guinea,Asia,6368845.0,Allowed,Medium,19011,116136,59.53276463445713,14.056778313337883,UberPool,Lyft
+4deed619-d4ff-4b7f-a97c-756c80a07847,West Katrina,Kenya,South America,2038109.0,Banned,Low,15782,129013,42.54793009623708,8.906056854486192,UberX,Ola
+8bcc1a13-d823-4dfb-9054-080e676090bb,Lake Jonathanhaven,Christmas Island,Asia,1225951.0,Banned,Medium,3113,308273,81.10782853476944,8.028915941459154,UberPool,Ola
+ed5a1380-d4a4-4c75-b623-99b3fffc4d0e,Tamarachester,Lao People's Democratic Republic,Asia,2027211.0,Allowed,High,14794,267443,197.66046614410908,16.98827979281799,UberPool,Ola
+4a0a63eb-6240-4c9f-8540-068af58236c7,North Staceystad,Central African Republic,North America,193411.0,Restricted,Medium,40561,211266,64.73725453554536,13.509939641808414,UberEats,Ola
+3ecf79bd-f6ef-49e0-91dc-a442d5b3e9af,Robertmouth,Palestinian Territory,Asia,7356175.0,Banned,High,6521,266102,31.476659413980187,10.44118397220817,UberX,Ola
+40ede07b-4ef5-494b-829e-c8186406a760,South William,Djibouti,South America,4258926.0,Restricted,High,46753,401588,33.59105286334017,10.476900300390806,UberPool,Lyft
+ac7c8f10-de2e-4f95-a877-9255dc9f5e15,Port Ashleyview,Tunisia,Asia,658571.0,Allowed,Medium,3834,45692,68.36397275804484,8.473864078976424,UberPool,Grab
+9c9500e4-5127-4100-b6a5-f8abee07d469,North Robertport,Congo,Africa,7699537.0,Banned,High,40641,89631,27.931891204669682,16.266736969199172,UberX,Ola
+4e3fceef-a223-4085-8ee9-ba682a12d149,Mooneyport,Ethiopia,Europe,6794641.0,Allowed,Low,41397,293542,283.492663550883,4.767764564900403,UberPool,Grab
+5e03e37b-731d-471a-bea5-6b00d0d760e8,Davisborough,Libyan Arab Jamahiriya,Europe,3198126.0,Restricted,Medium,32069,132245,77.89293153529319,18.610782575267194,UberEats,Grab
+bca5388f-9426-4b80-b0af-d87be98580b0,East Jacob,Seychelles,South America,5899804.0,Banned,High,42878,182908,50.38817783061906,11.095750382434106,UberEats,Lyft
+7ab25f91-e12f-4489-8140-6b8028923a95,Deleonberg,Anguilla,Asia,3171577.0,Allowed,High,32490,139112,14.906171373178,5.607687261453586,UberPool,Local Taxis
+c9372355-d7fd-4fa5-9fce-acdd71588743,Baileyfurt,Guyana,South America,9350490.0,Banned,Medium,23313,15798,95.80348385011716,11.232698785070461,UberPool,Local Taxis
+6ae253fb-1607-4799-a82e-bbdd2e7bfc1e,East Jon,American Samoa,Africa,6608661.0,Restricted,Medium,17474,493139,58.83912356676607,3.390291936111776,UberPool,Grab
+a06ebfa3-a03a-4207-bcf6-81fa2cee7a62,Robertshaven,Saint Barthelemy,Australia,7645599.0,Banned,Low,32967,72962,64.37539566435403,16.960842907438476,UberX,Ola
+80b78f53-c326-4fff-bae4-488bee3d8ef7,Daniellemouth,Liberia,North America,805249.0,Allowed,High,49965,425090,237.952603392753,7.446752819504353,UberX,Lyft
+805fdc42-cf0d-4978-87d8-8cff4a74b8ef,West Paul,Mayotte,Africa,3030003.0,Banned,High,16880,219947,90.3614269009018,15.337542015451021,UberEats,Grab
+b73c8934-92cd-43d7-9d33-03822e88dbed,Pittsview,Israel,North America,,Allowed,Low,37015,34718,88.1167679069048,15.312068140500536,UberX,Local Taxis
+23914d47-9595-4f19-b7eb-6406ef17c2a6,Jessicahaven,Nepal,South America,467201.0,Banned,High,6671,16156,52.407913303577956,12.728803007822785,UberEats,Lyft
+02038433-ac9a-47ff-8b45-bd3f6159a129,Ashleyburgh,Germany,Australia,8187830.0,Banned,Medium,17144,363860,87.68678050085869,3.6394171156887687,UberEats,Local Taxis
+3a200997-c7a0-4ce1-91e3-b22449bba4b3,Amberland,Niue,North America,3333129.0,Allowed,High,6460,196313,53.87148631368909,14.97607488627854,UberX,Lyft
+64ed1e25-3f34-4e76-b97c-3b807c883df0,East Melissa,Tajikistan,South America,6589590.0,Banned,Medium,29293,395313,27.30102416298316,16.196379453977933,UberX,Ola
+67ed6d29-0823-4579-af63-3bfa9fa05bd2,Lake Joshua,Guadeloupe,Africa,4607981.0,Allowed,Low,43365,487076,50.59834561857525,16.247442088302897,UberPool,Local Taxis
+659afd97-67d4-4ac1-9a6f-51cbb1a0b862,Lake Melissa,French Polynesia,Australia,1807226.0,Restricted,Medium,44293,6399,24.747979354625894,14.369678983007734,UberPool,Ola
+653eba74-2bb6-4e5a-93cf-5099b221dcf3,North Sheena,France,Asia,6134283.0,Allowed,Medium,32080,460946,85.01535186840478,2.1246838511433355,UberEats,Grab
+ec44a4f3-dbcf-445b-bc42-523b961283b1,Bellview,Pitcairn Islands,Europe,2439842.0,Restricted,High,22046,98703,84.54853216391226,13.77279046971539,UberEats,Ola
+87127be5-a518-4e90-be43-abe1b52594a9,Lake Christine,Cote d'Ivoire,North America,2227227.0,Banned,High,28240,305457,14.219017132882156,8.743771708667087,UberEats,Lyft
+2f2539a8-b5e7-48bd-9622-8bfc08fe7b13,Lake Benjaminstad,Bouvet Island (Bouvetoya),Asia,9385549.0,Restricted,Medium,18623,373939,78.96608478072606,12.183384049984733,UberEats,Lyft
+797d8d59-1999-4754-9f79-5e69af90782c,Alanbury,Switzerland,Australia,9937234.0,Allowed,Medium,7921,38460,65.62621527782164,3.14130498741723,UberEats,Lyft
+5e29e86c-d84a-46d5-a61f-65436899e17f,Staceyshire,Jamaica,Australia,2704474.0,Restricted,Medium,34296,482153,14.540308951539464,12.92696879734418,UberEats,Ola
+5ed03518-f02d-4999-9018-af3700ecda1e,Hallbury,Gambia,Asia,5317374.0,Allowed,High,2287,417508,41.74434753936562,13.58221600519853,UberEats,Grab
+0edd04a7-f5c4-4b31-a184-607e94ec041b,East Crystalside,Congo,Asia,1044535.0,Allowed,Medium,17644,108350,56.96555009081171,3.6229254826687693,UberEats,Ola
+f734763a-2e4c-4eb0-8084-ba3199afe875,North Nancyshire,Timor-Leste,Asia,7819322.0,Allowed,Low,5871,363884,80.25129971114616,2.3954296665105526,UberX,Lyft
+4514d24d-8736-49ea-aa85-a32fbdd26526,West Lisaland,Canada,Asia,9986300.0,Banned,Low,36926,251127,71.5567119687226,3.1883813466281747,UberX,Local Taxis
+cc494fa4-b73f-46dd-9f53-b000c18eb849,Henrychester,Qatar,North America,8047559.0,Banned,High,30176,86806,89.98909020163778,17.98249206804362,UberEats,Ola
+bbb41107-4ccf-41df-bfe6-6a46c7eec911,North Heatherville,Israel,North America,7053853.0,Restricted,Medium,46702,178305,254.72021886345493,19.79393622434275,UberEats,Ola
+c15f3514-2dc4-441f-bd11-daba0a817550,Duncanbury,Azerbaijan,North America,5470960.0,Allowed,Low,45665,268436,8.876746685812346,17.490215115440545,UberX,Local Taxis
+c4d10706-d12b-470e-8790-96be2515c22d,Alyssamouth,Guernsey,Asia,2405783.0,Restricted,Medium,38400,159871,97.27045628661413,4.827791288106743,UberX,Grab
+692ff3b2-67ea-4917-b571-5b8bec9bf6ab,North Briannaside,Cuba,South America,4253163.0,Allowed,Low,48877,51009,90.49075060863314,5.973579484996849,UberEats,Local Taxis
+0bcdf977-cfb1-4967-b08f-e462a472180c,Kristinabury,India,South America,4937182.0,Banned,Medium,4205,167247,15.953625852581531,6.90202480485935,UberPool,Grab
+8bcb31ae-cee1-430a-9e1a-10688eda7239,Yufort,Isle of Man,Asia,7389847.0,Banned,Low,4071,240715,41.63435446582364,13.791756449724508,UberPool,Lyft
+757ef17a-57ab-4e1e-af5f-7bf2e59fc8a5,Ritaberg,United States Virgin Islands,Asia,2888448.0,Allowed,Medium,36872,486710,28.518783694898826,7.958169499389835,UberX,Lyft
+0a2aa518-804a-4dae-a0ed-4e7eb0b3751e,North Kevinport,Argentina,Australia,8920796.0,Banned,Medium,19016,129795,37.908839197218924,16.069877839007226,UberX,Lyft
+714bda76-526d-4f77-b1a5-94275260ada1,Howellbury,New Zealand,Asia,4778149.0,Restricted,Medium,13963,205493,336.5439220126935,6.8389342249001,UberX,Ola
+587093a2-6be4-4986-84d4-f7d3e4bc7d84,Goodburgh,Eritrea,Africa,3766713.0,Banned,Medium,23724,388028,42.00894829806166,3.1778589925570913,UberEats,Local Taxis
+e3439b91-64b4-4360-94e2-d2a06e753e22,Port Kimberlymouth,Myanmar,Africa,7241143.0,Allowed,Medium,2900,119833,79.36014128566777,2.0922331013709226,UberEats,Local Taxis
+2e87c9c3-f4f3-47bf-b6d1-0532885d4b7e,Baileyborough,Niue,Africa,4487992.0,Banned,Low,39042,101070,16.285563937035192,11.151667045783384,UberEats,Local Taxis
+a252ffcd-d405-4ab0-b6c1-b2661676fa48,Freemanchester,Ghana,North America,6006284.0,Allowed,High,28686,85370,10.683820486586539,10.806927678057873,UberPool,Lyft
+27e6089e-a254-47f7-ab21-f616c1a9dd05,South Suzannehaven,Iceland,South America,1212520.0,Restricted,Low,2714,41526,127.3547320511192,11.06694429211618,UberX,Local Taxis
+aace9db8-fe31-49fa-aed9-428952b76024,East Patriciatown,United States Minor Outlying Islands,Europe,1302055.0,Allowed,Medium,47973,209858,8.272668848397238,12.68146216974062,UberPool,Ola
+bdd5e5d1-ec8d-4398-b1e4-27d3ec0cbf2c,North Lisa,Uganda,Africa,3273053.0,Allowed,High,37986,355133,95.46665486484382,14.23222936133285,UberX,Ola
+e21851cb-6d86-4b34-b278-fb3adc1d2020,New Allison,Guadeloupe,Australia,9844191.0,Banned,Medium,7216,367085,33.944995599047715,14.007373800169978,UberPool,Local Taxis
+69ff2e94-1e6d-43a9-af55-869a9a81d32b,South Andrealand,Zimbabwe,South America,2606938.0,Allowed,Low,13248,213772,69.77815780197162,13.664834525691418,UberEats,Lyft
+f36d04df-fcc9-4f09-84a4-07b6beb9a1c3,Davidside,Botswana,Africa,377078.0,Restricted,Medium,43365,362373,61.57992173973199,9.541044277913965,UberEats,Grab
+431e5435-9a65-4069-9735-eaf9a1063b56,Lake Shaun,China,Australia,224424.0,Allowed,Low,25654,436874,8.881846242880188,3.716041840761916,UberX,Grab
+a6e2f755-b09d-4cd2-a246-dcfc582a1de1,Jacquelinechester,Antarctica (the territory South of 60 deg S),South America,6715536.0,Restricted,High,10440,107392,431.40327310570694,11.723588263706286,UberX,Ola
+1c87ae06-15c3-40e3-a142-5e751a49f714,South Julie,Germany,Australia,9662779.0,Banned,High,9269,251842,44.901809818326235,12.08402324656695,UberX,Lyft
+14bc2b8f-696f-464e-8338-ee1a0bba20f4,Port Christianbury,Algeria,Europe,5704763.0,Allowed,Low,16755,360020,96.36445831385176,3.12303923304425,UberX,Grab
+8a2b6786-1e34-4bf1-99ab-98ec734348e1,Carpenterhaven,Christmas Island,South America,,Restricted,High,30822,36567,71.69581895853564,12.574790191555596,UberEats,Grab
+ea21941d-e7f7-4a04-af6d-e68754849bd0,West Jerryview,France,Africa,3067838.0,Restricted,Medium,9104,250374,41.88448853956992,9.805549202004391,UberEats,Local Taxis
+3df5a98c-5162-474f-95aa-94a1c7376c39,East Monicashire,Namibia,Australia,5966711.0,Restricted,Low,31313,448398,64.9968015103592,3.63274634877604,UberPool,Ola
+27c857f6-7e63-4bb8-92c3-72d9cbc98a37,New David,Guinea-Bissau,Australia,8249931.0,Allowed,Low,11632,173443,95.13505146528733,11.471690874779508,UberX,Local Taxis
+5a1e2af5-51a2-488b-b490-f545e8815f38,South Mariatown,United States of America,Europe,9557023.0,Banned,Low,13530,220225,28.54352783235856,12.535760058710109,UberX,Lyft
+f4468ed6-f82c-4644-81d8-99f6b0bec574,Port Daniel,Portugal,South America,2495929.0,Restricted,High,4545,436995,248.9186295612014,9.175532838316364,UberPool,Local Taxis
+b6fafc3c-a6eb-41b3-a10a-d1dcc20d895d,South Wendy,Oman,Africa,3918372.0,Allowed,High,28994,387826,84.7337300814172,2.9342012560517916,UberEats,Ola
+18045006-65e4-457d-893f-94129144e3ab,Charlesfurt,Malta,Asia,3888994.0,Banned,High,33133,486480,7.471188399271126,9.839477772724834,UberEats,Lyft
+b6cb3654-c228-4aaf-a682-674e704914af,Cainton,Norway,South America,9696637.0,Restricted,Medium,48577,197077,363.01517679573766,8.821720758855864,UberEats,Ola
+3a282ee3-8e1a-4872-8c32-8a292b71a307,Mcdanielfurt,Vanuatu,North America,8117526.0,Restricted,Medium,49119,329041,496.58620600154455,19.276025957824896,UberX,Lyft
+8d98d5ea-56b2-4941-a979-f2f14b698b20,West William,Norfolk Island,Europe,8361038.0,Restricted,Low,36386,184521,77.35401592883122,11.0813469849216,UberEats,Ola
+197193f4-b3b5-4622-a8e0-450d5aa7e070,New Matthew,Norfolk Island,Africa,5062258.0,Banned,Medium,29198,176244,93.14931165404712,19.905999114498627,UberX,Grab
+e35294c2-b3b1-480f-9dc8-8d34a780afc4,North Laura,Portugal,North America,,Restricted,Low,13044,180391,42.23799532797901,11.645174697935303,UberEats,Grab
+19c223b0-d8c0-4bf4-8034-8be3a5afd613,Holmesside,Cook Islands,North America,,Banned,Low,14564,403029,50.71485802115018,12.55362251122462,UberPool,Local Taxis
+bc73038f-603a-4d93-9f13-d2738125cc33,Martinfurt,Liechtenstein,Africa,7266939.0,Banned,High,29471,347497,87.47970590176115,7.073261094767016,UberEats,Lyft
+ad562df2-08c6-4467-b2aa-2319f1a2c221,New Bruceburgh,Costa Rica,Africa,7450567.0,Allowed,Low,21027,201606,30.17654458055082,13.207394789252074,UberPool,Local Taxis
+ddb49b5b-def4-4a77-a2cf-3d279dcae871,Monicamouth,Paraguay,Africa,7868308.0,Allowed,Medium,4488,219697,36.62936613345888,19.254326485891486,UberPool,Ola
+fcb476a8-3083-49a9-b47d-069a3b15c0d6,Lake Philipstad,Malta,Asia,3639122.0,Restricted,High,43986,101572,8.93967820117037,16.666525570247003,UberX,Local Taxis
+8184fbdf-520e-4693-982d-8b8755fc0bb9,New Joseph,Syrian Arab Republic,North America,7470685.0,Banned,Medium,15194,453615,30.43285643125596,4.268523905016654,UberPool,Local Taxis
+d8e74142-1d88-40f1-89b4-2e97bc76ac8b,Scotthaven,Cuba,Asia,7593026.0,Allowed,Medium,41669,240197,256.1846001422272,18.49839179467049,UberX,Grab
+5a567a29-91cb-4abe-9784-c83f9ec4e306,South Nicole,Malaysia,Europe,4027531.0,Allowed,Low,11500,282066,81.15430317653673,17.816741810214825,UberEats,Grab
+ad17a4ad-13fe-4527-b1ec-eb78861e45bf,Angelatown,Cote d'Ivoire,South America,,Restricted,Medium,48342,454269,26.905181742983686,16.368280996254256,UberPool,Lyft
+971d2c2e-6ddd-4138-bf33-1459db58d09b,North Derek,Qatar,Australia,5452961.0,Allowed,Medium,11216,319552,62.538012236070124,3.95083244287627,UberX,Lyft
+e6629f80-8ebb-4d1c-ae52-82a2671595c5,Garnerberg,Luxembourg,Europe,8179536.0,Banned,Medium,41754,445015,98.28657159551737,13.344416781517285,UberX,Grab
+86d16aef-6f3c-4afb-a3b1-3912d404bcbb,North David,Swaziland,Australia,6987851.0,Allowed,Low,14696,262348,24.809577398395888,16.901361974191705,UberX,Lyft
+f697f86e-0f62-4cf5-8bba-e4d9bb83e429,New Deborahtown,Sao Tome and Principe,Australia,9913637.0,Allowed,Medium,18347,288615,196.9088698912817,14.546924773554634,UberEats,Grab
+050fd9d4-d3d2-4bbe-bf1b-ed16deb34823,East Elizabethmouth,Mali,Asia,5708125.0,Banned,Medium,42244,196260,10.60212230224602,2.158596595306215,UberX,Lyft
+7c4ebfcc-00b9-4e0c-8abf-27b416586dbb,Riveramouth,Costa Rica,South America,,Banned,Low,35885,375873,31.573654936219448,2.816238858747969,UberPool,Ola
+b5c246dc-c094-4432-997f-b28e2164f96b,North Christopher,Latvia,Africa,1391890.0,Restricted,Low,22340,317858,99.71881197527935,6.127099708914128,UberEats,Lyft
+bae7c18b-63f8-4309-a754-7ced5478e470,Clarkmouth,Czech Republic,Australia,2429879.0,Allowed,Low,43814,239592,34.694526882784366,18.122231744437837,UberEats,Ola
+80600a64-9aea-413c-a32a-5d618b132a3e,Richardtown,Marshall Islands,North America,9977453.0,Banned,High,38904,374564,78.43519092806493,5.374462210247591,UberX,Lyft
+0f3fe407-9cd3-4c8a-a417-6c601eabdd1f,West Sharonbury,Antarctica (the territory South of 60 deg S),South America,6369007.0,Restricted,Medium,16224,217012,335.40753277713225,6.313825838361126,UberX,Local Taxis
+c1521262-8bd6-4189-aa1f-febac2d6a420,New Troyshire,Colombia,Europe,8842076.0,Banned,High,15090,479496,5.6000575198988365,3.220230644578543,UberEats,Ola
+4fe7ce36-c403-45f4-9026-27c7283b4f9e,Schmidtmouth,Samoa,Europe,4350488.0,Allowed,Low,26879,231576,5.956252490947435,6.893099035651604,UberEats,Ola
+656132de-3d24-4af5-90dc-1804ef702ee1,South Danielmouth,Netherlands Antilles,North America,9643988.0,Allowed,High,49119,394752,43.37358716873345,7.645652532617102,UberPool,Lyft
+c6346d96-2883-4bc6-b509-4fd2db129256,Jermainefurt,Korea,Europe,3401404.0,Banned,Low,24951,348242,92.7476144526019,2.7821404261013845,UberEats,Grab
+c19fc4fd-4a03-4250-9328-121165c9d175,Reyeston,Morocco,Africa,2016834.0,Banned,Low,44730,108900,64.06345015356995,10.590993718433424,UberX,Ola
+81a8cdbf-09e6-497a-813b-e6ad3fccdc32,South Phillip,Honduras,South America,6415521.0,Banned,Low,7899,292961,18.673678316547523,18.77614489776417,UberPool,Local Taxis
+c705d463-8926-457c-9689-442179c62667,Kyleville,Mongolia,Asia,108586.0,Allowed,High,5115,306665,15.161639424135602,3.28559407099472,UberEats,Grab
+e3b494da-a48f-46d7-8687-318307169b4d,Stewarttown,Jersey,Australia,740228.0,Allowed,High,40434,32615,58.09746649015725,5.840556570124463,UberPool,Ola
+bb888832-d891-4d85-b5e7-9c2f5df10eec,Jillfurt,North Macedonia,North America,,Banned,Low,27498,194649,89.6230802749312,14.802016323314566,UberPool,Local Taxis
+ad039e37-56d4-4146-a487-47ddac7a5c65,South Anthonyshire,American Samoa,Europe,8370468.0,Allowed,Low,23216,278152,322.0564871949252,4.91596229244049,UberEats,Lyft
+23823539-f57b-475a-b803-6b455f3bd011,Christinaton,Zimbabwe,North America,,Banned,High,5103,326082,402.1654381276092,6.5356226539863105,UberX,Lyft
+7f5cc6d7-2aa0-4e60-8dcc-cb3c34d05bc9,New Cindy,Trinidad and Tobago,North America,8807005.0,Restricted,Medium,36125,244209,38.576033586467695,10.87446665387074,UberPool,Ola
+5de7f905-008c-4ec3-af78-623dc0d4f4d0,Lake Christinaview,British Virgin Islands,North America,5648839.0,Restricted,High,28126,373794,50.52550981823518,8.685934945090503,UberPool,Local Taxis
+524112f8-4c54-486c-8b4b-5639bc63d315,West Michael,Wallis and Futuna,Europe,2633357.0,Banned,Medium,18639,396277,64.00969451643071,3.91302094407857,UberX,Local Taxis
+28aa9ac0-4ec7-49cf-9aa7-06610f2c94ca,Barrettmouth,Grenada,Australia,,Allowed,Medium,8372,57617,13.614847353826665,8.880991323110099,UberPool,Ola
+424fb381-4dd6-4d7e-b57a-daf2021dea6d,Matthewborough,Barbados,Australia,7876787.0,Banned,Low,42361,278426,30.242305126812738,14.953768764838461,UberPool,Ola
+e28631ba-1b7a-4708-9f22-d0a15f4eb6de,Jamesside,Tokelau,South America,3383814.0,Restricted,Medium,1782,394445,9.151795742660548,15.57161193132438,UberEats,Ola
+a5929cec-68a2-4fc2-adfe-b00a433fbf0f,Morrowstad,Saint Lucia,North America,6017454.0,Banned,Low,4783,470927,91.80846514865827,5.1469666968789145,UberEats,Grab
+12e80fe1-235d-4033-af3b-89396138bdd2,West Tara,Finland,Africa,,Restricted,High,11194,473645,54.14631287060809,7.64671786882716,UberPool,Lyft
+8a6c00e3-80a3-47e6-bb1f-12681d808e21,Allenstad,Samoa,Africa,4119731.0,Banned,Medium,704,126708,30.908158547559232,2.410543996611719,UberX,Grab
+ba598b06-9263-465f-b59c-81c6f8f176ad,Schultztown,Switzerland,North America,632178.0,Allowed,Low,5128,305510,26.432193755885944,3.8992777874456905,UberPool,Local Taxis
+b9ef1d5a-037e-47a1-bbb3-5953df378a4b,Cooperstad,China,South America,5734680.0,Allowed,High,41153,6614,55.996010873221245,14.85282070710883,UberPool,Local Taxis
+ff62aa53-76fe-4f99-ace5-fd472cfb605f,Lake Katherineview,Morocco,North America,4514473.0,Allowed,Medium,8506,417451,60.56628718585637,12.309952087731562,UberX,Grab
+8c76fefa-e3f6-4d98-8969-fdff7f6b6ee8,Sarahside,Morocco,Asia,4832333.0,Allowed,Low,28053,428206,75.94403342209812,15.93781327881249,UberX,Grab
+3bb3c3cb-7874-4317-a40c-a3854bfd15ac,South Nicole,Tonga,North America,,Allowed,High,16889,321658,69.79749946862336,13.643210729241437,UberEats,Lyft
+b4d63794-e061-4558-8efd-570f75926753,Lake Cindyburgh,Cuba,South America,7516821.0,Allowed,High,33030,378027,81.02913117820188,18.81106269568727,UberPool,Lyft
+b98f6dd5-03f7-4cef-88a2-2d048f812e39,West Kiaratown,Iraq,Australia,5526026.0,Allowed,Low,30982,111203,42.236600865374555,17.459367069646902,UberEats,Ola
+53d723a5-1c85-4244-b097-1eec6791ff6a,South Nathaniel,United Arab Emirates,Africa,,Allowed,Low,20337,39584,30.204599204594412,18.252384428934878,UberPool,Lyft
+60258808-3003-45a3-970d-724a6102e43a,East Amyborough,Myanmar,Europe,,Banned,Low,43341,473417,5.367683137571302,3.858421268687022,UberX,Grab
+123b9e1a-0935-4c91-b9b9-66b0392cc748,Rowlandtown,Dominican Republic,North America,5355664.0,Banned,Medium,39097,233493,10.103629457988568,6.814235744023535,UberEats,Lyft
+a364e2d1-088e-4df8-8e00-7f1c04c1e043,Richardshire,Slovakia (Slovak Republic),North America,2378367.0,Banned,Low,35844,329815,5.928229189768417,7.54983259496826,UberEats,Ola
+916c89a2-0406-42c6-8259-93c5a196aed5,New Lindsay,Tuvalu,South America,1886325.0,Banned,Medium,28039,37309,88.56158634495095,10.935894435561664,UberEats,Local Taxis
+9b3ff659-62d5-421e-9143-6d95b2d4c60a,West Jessica,Benin,Asia,7078193.0,Allowed,High,7038,425889,56.44656557257996,13.454413811841164,UberEats,Ola
+6635d06c-d857-4658-820b-6a7a31696a33,East Matthewchester,Djibouti,North America,3181535.0,Banned,High,40198,210749,85.06010010125675,3.1702945135261698,UberEats,Local Taxis
+a323b9cb-34a9-4bcb-aed0-cbdd032db684,Lake Robert,Congo,South America,1936197.0,Restricted,Medium,25462,54827,87.9387931380781,11.7995248265535,UberEats,Grab
+0917254d-8c08-4a25-beca-717a864b0532,Dixonchester,Norfolk Island,North America,,Restricted,Medium,21380,406633,28.791647195254605,7.2447464098168,UberPool,Local Taxis
+44ff823a-35f6-48db-84b7-b77c192f9856,Lowefort,Libyan Arab Jamahiriya,Africa,6704402.0,Allowed,High,10622,105616,23.29802646823964,19.038394833373548,UberPool,Local Taxis
+ef36b3de-c457-43b3-8da6-e7cbe6b7a028,Lake Steven,Brunei Darussalam,North America,4037295.0,Banned,Low,10028,231367,73.12626548577697,3.0546428820572498,UberPool,Local Taxis
+ca0c70bc-486b-4176-b09b-ec1e4cf24d15,South Angelachester,Paraguay,Europe,1155789.0,Banned,Medium,40154,17726,12.420226986941874,19.422456957253367,UberX,Lyft
+88bc7ad4-44d9-4844-b6d3-ed51e3571d67,Sharonview,Svalbard & Jan Mayen Islands,Asia,6089190.0,Restricted,High,46758,310780,53.89679285075166,15.322209580379965,UberEats,Ola
+3fcd18a0-8f2a-41ac-8e8b-ee6cd98e03a6,North Dannytown,Tonga,Asia,2338789.0,Restricted,High,49862,438579,40.6332995158387,4.66453825895994,UberEats,Lyft
+5a229b7e-3c73-41e6-940a-9d3757bf0af6,Samanthashire,Guadeloupe,Australia,3532956.0,Allowed,Low,15980,189049,21.664236137456346,10.401196892609576,UberEats,Grab
+e3d1cc93-cd52-4d31-80e8-7f7b6be793a8,Manntown,Libyan Arab Jamahiriya,Asia,6846922.0,Restricted,High,33035,379033,60.84880222662479,15.302480011377552,UberEats,Local Taxis
+c8fdbf24-3592-4e7f-a8f8-ba5e97331e34,Port Markside,Serbia,Africa,6597992.0,Restricted,Medium,29884,76142,53.26921048622736,2.884229964284139,UberX,Grab
+59c74e0a-f38c-4f9b-9380-86238668ae3a,South Mariemouth,Lao People's Democratic Republic,Africa,7948350.0,Banned,Low,12180,199653,7.239021562693884,6.598146396465321,UberPool,Grab
+c09588e8-94db-4458-9496-a9d3097bf42b,Michellebury,Belarus,Africa,9985908.0,Restricted,High,6808,136645,75.4284830174478,19.720095139702135,UberEats,Local Taxis
+b3bb79e2-e662-4c0c-a7ae-9303ef9870ba,Port Joseview,Qatar,Europe,2707035.0,Restricted,Low,13575,12961,25.954939804229987,13.87854525608933,UberX,Grab
+4b260cc0-b134-4185-a6de-51d863f267f1,New Brian,Saint Barthelemy,Australia,7234378.0,Allowed,Medium,37021,311473,15.445365961190713,9.000618552317054,UberPool,Ola
+1d509e9f-1d92-4d23-b306-e663a3232084,Ianhaven,Lesotho,South America,3154920.0,Allowed,Low,2306,20537,26.483255083497795,11.202342073665147,UberX,Lyft
+20c03783-f185-4186-ba39-0309d9eff389,Port Jonathanhaven,Cambodia,South America,3218785.0,Banned,Medium,14440,358059,7.356940312225126,3.6940755917110533,UberEats,Ola
+8f28ba02-9432-487a-9a22-0d2fd6157c27,New Stephen,Cameroon,South America,514402.0,Allowed,High,3016,62023,91.95356830695862,3.7877784573845164,UberPool,Local Taxis
+c4e06780-e1e2-4453-9fe8-93219a95b34a,Chenburgh,Angola,Asia,482648.0,Restricted,Medium,4608,160109,81.63917840277541,12.558374568807208,UberX,Lyft
+5dffd826-1b75-469c-9faa-615f44921d8a,Kellershire,Niue,Africa,9882066.0,Allowed,High,13778,302801,66.22432880791416,3.1604270741186733,UberX,Ola
+a0d96b52-2cf3-46d9-8743-4b1e8123cf70,Benjaminhaven,Afghanistan,Asia,7323811.0,Banned,Low,35459,227251,35.994173990524104,5.588241584838307,UberPool,Lyft
+f3e7556d-f1b4-4b39-9532-909a86dd0c57,North Corey,Chile,North America,5495770.0,Restricted,Low,42030,23093,98.34553033125798,16.420598866592016,UberPool,Grab
+54633333-37ae-4785-b17a-ce13120c8e0f,Phillipsland,Mexico,Asia,3952569.0,Allowed,High,15851,159075,80.03960136031971,9.621592590836851,UberPool,Lyft
+c69f1157-6862-44a9-be26-ed65c8dd400e,Port Brittany,San Marino,Europe,5024520.0,Restricted,Low,10879,125687,81.8885486435619,19.5183511392675,UberEats,Local Taxis
+94eb37e3-2e3f-4109-8f64-bbe99537be0d,Dawsonbury,Gambia,Australia,8505285.0,Banned,High,10848,24092,22.202363707674373,6.15554364609488,UberPool,Lyft
+b8d15c2c-6d93-4728-8cc0-0e3745e7d1a8,Austintown,Benin,South America,6469559.0,Banned,High,48042,371922,78.12268516948637,9.026413677519752,UberX,Local Taxis
+04884e7d-aa65-4790-b2ef-3c9e724c5e74,Thomasborough,Barbados,Africa,8406747.0,Allowed,Low,10769,64713,26.687195028088354,9.718393055794724,UberPool,Ola
+2bb0ea60-4620-418f-aa02-39623aa0c217,Matthewsview,Marshall Islands,Asia,4793558.0,Allowed,Low,14251,66588,42.47002844939191,16.394922049789905,UberPool,Lyft
+b1aa4b0b-f1cf-4ccc-b94b-11fb05206e7a,Port Justinton,India,North America,5613999.0,Restricted,Medium,746,315060,44.58878615110262,8.124255007043166,UberPool,Grab
+71fcf1de-6043-4fa2-a6f2-b28efa6de89b,Ericport,Svalbard & Jan Mayen Islands,North America,2341934.0,Restricted,High,45669,30876,85.26298425326816,6.087886441764853,UberX,Ola
+36747afd-538f-4af9-9aa9-0406b062cbcb,Ashleyfurt,Burundi,Asia,280794.0,Restricted,Medium,14335,319851,31.79029630983296,18.32797814157866,UberEats,Grab
+2b020c3e-41b5-4341-82b6-8be65aca3e91,Lake Mitchell,French Southern Territories,Australia,3632112.0,Banned,Medium,48907,11691,90.75073386819986,3.7472945899921064,UberPool,Local Taxis
+30696e96-8437-4692-bd8d-be703b7592c3,Frankland,Brazil,North America,4117902.0,Banned,Medium,15159,419272,24.755444694750103,5.061141959473342,UberX,Local Taxis
+296624be-5893-4c2b-b439-46dd80e0d0d4,West Nicholas,Algeria,Asia,1787446.0,Banned,Low,29276,227768,23.692572974296056,13.976575194348527,UberEats,Lyft
+648dbfaf-5ec9-4b52-840b-af7615e087b9,Veronicatown,Ireland,Africa,6384167.0,Allowed,High,42716,250803,5.337969383424867,18.671954493376912,UberEats,Grab
+37695065-b699-4004-9742-ddff49b6e1b6,Sherrychester,Uruguay,Australia,3844991.0,Allowed,High,34950,15877,19.73827333473387,15.476512939862694,UberPool,Grab
+67f7ce18-f1fd-47be-b8e5-831e2ca43da7,Lopezfort,Spain,South America,4028835.0,Restricted,High,21358,317373,16.421350813875385,4.492107168895631,UberEats,Grab
+3995fe14-bf60-467e-aff7-a66972981d17,East Shawn,Chile,Australia,,Banned,High,23414,111467,17.65231648095852,7.516788045054305,UberEats,Ola
+6c1bdcbc-f773-405f-8f65-e41522a8a4b4,Skinnerborough,Vietnam,Australia,9081235.0,Banned,Low,26310,369247,62.769490176288826,9.169955143526614,UberX,Local Taxis
+8fc70d08-0a00-4255-99b9-4ca33eeb2432,Christinaland,Indonesia,Africa,,Allowed,High,9728,178655,73.57077509309681,11.775195374145367,UberPool,Ola
+423256a3-5de4-4dc2-b3f6-e286370060a8,New Lisaton,Korea,Europe,2550670.0,Restricted,Low,4262,405129,32.58691491069092,8.799892352270845,UberPool,Ola
+6f71d427-82a8-46db-a118-c8ea5943c805,Ramosstad,North Macedonia,Africa,1397597.0,Restricted,High,37831,113494,466.10340029575565,3.5235589172475077,UberPool,Grab
+87dbb4d6-fa35-436b-996b-2b59ba592675,East Craig,Barbados,North America,5907727.0,Restricted,High,21565,418105,12.742013236173431,2.633296858946147,UberEats,Ola
+761c410e-5bd0-4396-afad-c66874fcefb8,Tammybury,Georgia,Europe,3050098.0,Restricted,Low,39491,196838,58.01235437573533,16.11835238545893,UberX,Ola
+ae336b89-cc12-4e03-aa16-16a35e8d37a3,Perezborough,Niger,Australia,235522.0,Restricted,High,48506,452731,57.835276791927996,3.6074661197317344,UberEats,Ola
+c746c170-7df0-40d1-abde-64242fb77845,North Michaelberg,Thailand,North America,7030240.0,Banned,Low,237,321385,70.56207770093157,15.018271044828534,UberEats,Ola
+8b901f3a-5d46-43f2-b571-e2761fb031b0,Port Ricky,Bangladesh,Asia,6664959.0,Banned,Medium,16352,390718,377.5706827805642,5.052483796677894,UberPool,Lyft
+5cc796de-f8d5-440e-b571-dd7db1d18d72,Porterburgh,Sao Tome and Principe,North America,2575224.0,Banned,Low,26182,62573,86.60005706783254,6.335053698707137,UberEats,Local Taxis
+84c612bf-6090-4a75-8fb7-31b54ab572fb,Laneshire,Bulgaria,South America,6900850.0,Restricted,Low,17031,316386,301.9072934232778,17.347827940884905,UberX,Local Taxis
+7b3b9fb9-88c1-46b2-a83e-439ba3b487d0,Lake Lisachester,Jamaica,Europe,,Allowed,Low,764,107145,49.03810714765979,5.6378253234483715,UberPool,Ola
+24f06bc3-b45d-401c-9b37-4d24c7555057,Lake Ericberg,Jersey,South America,9708579.0,Banned,Medium,5744,201673,89.53530148139325,7.790004356059171,UberPool,Lyft
+5f4e9f9f-6067-4558-b9ef-1669415a0628,East Rachelland,Turks and Caicos Islands,Asia,6960997.0,Banned,Medium,20146,94754,25.784107442416126,5.7148535315063675,UberEats,Lyft
+ca7435b0-b5e0-43e0-9e6f-e15d636b046d,South Patricia,Marshall Islands,North America,4419873.0,Banned,Low,26002,157424,377.61250187978067,3.2182031291039808,UberX,Lyft
+d06625ca-52e9-4d28-8edf-0bafbc7264a5,East Eric,Saint Pierre and Miquelon,Asia,5267428.0,Restricted,Low,35873,204271,26.387907545690968,16.496774122065077,UberX,Grab
+0a8763c5-5fc0-4ebe-bb48-cd14864cd769,Cervantesland,Kenya,Asia,1816253.0,Restricted,Low,6678,490620,65.71700427056683,6.076444804489361,UberPool,Lyft
+2964aa63-b5fe-4e6f-860c-18f5ffbfe964,Crawfordland,Turkey,Australia,3009390.0,Banned,Medium,17936,413520,77.60299029146007,13.14006203504003,UberPool,Ola
+018277bd-eb66-4477-8a9d-c1df0d7f407b,North Karenside,Bermuda,Australia,5674599.0,Restricted,Low,36815,222105,209.10926867879968,13.782623958426077,UberPool,Local Taxis
+be0632dd-44c1-40c5-9061-2bce9da3026c,West Regina,Turkmenistan,North America,2754369.0,Restricted,Low,26160,81163,68.26660022850314,10.45335623466346,UberX,Local Taxis
+eccbbb62-83cc-43c8-93fe-734a80ac7b5e,Harrisonland,Russian Federation,North America,,Restricted,Low,38911,135550,43.966098949252554,3.15788323048925,UberEats,Grab
+32cbe739-1f1c-459f-8a76-d098935fbc67,Lake Angela,China,Europe,3550642.0,Restricted,Medium,25571,6452,68.44157581902691,11.280458688286405,UberPool,Lyft
+e4c82c1a-28e2-4d04-80bc-de6bb49e1405,North Grant,Trinidad and Tobago,Europe,8157776.0,Restricted,Low,20751,386264,82.04597506697625,7.028338524607168,UberPool,Grab
+0a90d561-dc7e-4246-acdf-cd88d96d1be2,New Laurie,Greece,North America,5567181.0,Restricted,High,13124,280232,99.63378050295584,14.1126596135094,UberPool,Ola
+df9d834e-4253-44d8-9038-f38847377e97,Tinashire,Tokelau,Australia,1060170.0,Restricted,High,5215,350579,91.22643266980234,16.832880417147773,UberEats,Local Taxis
+146fbd07-a8ed-4a96-b704-a7b3f7e9dcc7,South Sarahfurt,Philippines,Europe,9154703.0,Banned,Low,26236,233007,39.76029816234003,13.560891514590507,UberPool,Ola
+740835dd-f338-495c-8467-bd16230eccc2,Cameronville,Nauru,Europe,8300449.0,Allowed,Low,41190,340805,377.4281139141673,9.835848051853535,UberPool,Lyft
+fed8874e-b358-4c52-8215-642e44f92d4a,Williamsside,Niue,Asia,9043357.0,Restricted,Medium,8090,205684,64.9680921357014,13.498092280793923,UberPool,Lyft
+c8899006-f16b-49b9-841a-f2b020f1c23a,Jeanettefort,Ghana,Australia,8336429.0,Restricted,Low,10660,491276,49.127293372722555,5.617260392949236,UberPool,Local Taxis
+0cc21d2c-0d21-48c1-b27c-c3c4a5cc1ff9,Ginamouth,Papua New Guinea,South America,5654466.0,Restricted,High,4533,203907,65.23367212192035,12.598235882205698,UberPool,Grab
+d088d0e6-756f-4255-9f72-54d26c190b93,West Aprilview,Azerbaijan,South America,4712491.0,Allowed,High,38499,292027,79.86565477820936,8.174508306482053,UberPool,Lyft
+78bf3d8e-dfe2-4d54-a742-0e897dc4c9b1,Kellystad,El Salvador,North America,6321157.0,Allowed,High,29631,321482,5.254580317484388,6.003520761927678,UberEats,Grab
+0db30eae-b500-4a9c-a05e-cd21270a8407,Lake Elizabeth,Kenya,Australia,5867840.0,Allowed,Low,14968,24641,90.82019346980634,7.964404834331194,UberPool,Lyft
+b309ad4f-26b8-4a52-b9df-0fc09684062c,Jessicaview,Oman,Europe,3630012.0,Allowed,High,27414,184754,40.74047397077525,7.8828556966807275,UberX,Lyft
+95ec5cc7-9e2a-47ca-84af-7ba0b9eb10b8,Craigmouth,Dominican Republic,South America,7847318.0,Restricted,Low,20890,186573,406.7233571417835,13.593055917084747,UberEats,Ola
+fb852a6b-2037-4e59-9aa9-b794f85294ad,Allisonfurt,Tanzania,Australia,2587187.0,Allowed,Low,23203,227676,55.93263974199009,14.714784146912079,UberX,Grab
+cb8d925c-87ab-4239-9848-439e4e04b974,North Patrick,Estonia,Europe,,Banned,Medium,39156,349191,94.69047524187019,11.708927844833607,UberX,Lyft
+2d0be279-c3b6-4455-b7c7-574d6a9f141e,East James,Saint Martin,Africa,2147002.0,Banned,Medium,7010,10655,15.703116084339882,12.548598678386849,UberX,Local Taxis
+770dd86e-1f7c-47dd-a5ef-50859884707a,Murrayborough,Spain,Europe,3247947.0,Allowed,Medium,11609,328068,89.94880098302747,3.1591783595700385,UberEats,Local Taxis
+e7151e73-e9b4-4656-ab74-f34794681d27,Stoneberg,Brunei Darussalam,South America,4822578.0,Allowed,Medium,31095,10110,38.79823199697109,3.77968085848671,UberPool,Lyft
+c9b7a15c-b6f6-45c9-80f5-4b0feec791ab,Summerschester,Suriname,South America,,Banned,Medium,7269,80124,45.380377019441916,5.462449248628029,UberPool,Lyft
+b379744d-18d8-49ac-883d-ede07bf6843a,Murrayfort,Algeria,Australia,5107794.0,Banned,Low,42891,368898,81.50365368231535,14.210673555214903,UberEats,Ola
+85803557-3e12-4098-90c9-a4523a8e836d,East Carrie,Bulgaria,Australia,5231941.0,Restricted,Medium,38316,477994,14.355605796774928,10.11867243661737,UberEats,Grab
+e20c4256-3cc1-449a-8357-fd6230b357f3,West Joseph,Algeria,South America,1418447.0,Allowed,High,48541,44485,40.33889693297517,17.132509466705564,UberEats,Grab
+faa4c2d0-1146-4d0c-9ece-3544837c31ce,Michaelberg,Mozambique,Europe,2835199.0,Allowed,Low,23035,239391,37.423834766302065,17.63061231788128,UberEats,Lyft
+c960c9fd-36fe-4bfb-bfda-972b7bf0a6c5,Port Josefort,Kenya,South America,5125641.0,Allowed,Medium,37157,271496,76.23758088087926,19.199332400748787,UberX,Grab
+6338cdf9-6cbf-4e45-9bd1-3ed08d37027d,Port Brett,Montserrat,North America,4323291.0,Banned,Medium,7675,278960,26.318568898178185,14.322668224915052,UberX,Lyft
+6d0a3334-7d2a-4fd7-8d32-f023ed0d76c4,North Catherine,Turkey,Europe,,Allowed,Low,43689,371170,86.6885689738377,13.793296939401797,UberEats,Grab
+7bab403b-1041-44b3-9b43-25bf94c5b08c,Dustinmouth,Mayotte,Europe,5529203.0,Restricted,Medium,11021,148795,13.891883775524388,11.284925037210195,UberX,Local Taxis
+34aaad75-2280-4470-87b1-c08eb593781b,East Benjamin,Anguilla,Europe,6378214.0,Banned,Low,4208,124172,49.50860293121242,12.95036218197432,UberX,Grab
+4e1816db-60e8-48f2-96ce-8ba53134cc70,East Ginaborough,Pakistan,Africa,8063766.0,Allowed,Low,27804,193588,22.36619951339121,4.210940483637196,UberPool,Lyft
+ccf1d65d-10d1-4beb-9a8d-f27c25ad8a2a,Port Emily,Singapore,Australia,2794646.0,Restricted,Low,36925,201444,86.47873846066459,7.767256211702627,UberEats,Local Taxis
+aac52e28-bb0a-4f75-840c-650fd6aa3413,Adamshaven,Papua New Guinea,Asia,8223928.0,Banned,Low,17646,287299,46.524321704900565,12.382338210192708,UberX,Grab
+056d7cf1-5601-408a-be53-3d03150d75f4,Lake Gregory,Netherlands Antilles,Asia,320997.0,Restricted,Low,22606,209771,105.29100206959119,13.07644935133834,UberX,Lyft
+6590fc10-63e9-4206-8149-0d05edcb40f3,Donnaside,Korea,Africa,6024819.0,Banned,Low,1909,256766,453.271494762401,3.52806430333368,UberEats,Local Taxis
+527fd80c-469e-4c33-b3a1-53620ff8a6fc,North Amandaview,Bahamas,South America,7257832.0,Allowed,High,47001,326923,66.85117821582136,12.073569420740876,UberX,Ola
+a9fc70ed-af6a-45a9-b856-38ea091604a5,Port Davidmouth,Cyprus,Australia,4952852.0,Restricted,High,47283,178952,23.96542698109524,13.402903432946394,UberEats,Lyft
+d3521f31-3f45-4f9b-ace7-0542e207a33d,North Kyle,Iceland,Australia,500815.0,Banned,High,46318,418077,55.74269595485792,13.37930340216804,UberPool,Ola
+6151dc53-68ba-49bd-a97d-bf6dc2d883f2,Lake Mary,Monaco,Africa,751469.0,Restricted,High,47270,133249,43.16626208839133,17.232141002786037,UberPool,Local Taxis
+e9adfb43-2d87-450f-b88c-ad95e3b4f7d9,Christophershire,Nicaragua,South America,228465.0,Restricted,Medium,36837,399605,64.63879843633742,5.548554566863863,UberX,Grab
+445a90eb-8ea5-43d8-be49-d6e1f3a5ff62,Thomasview,Aruba,South America,5931076.0,Banned,Medium,40223,61180,55.789271997343896,11.923349332252362,UberPool,Local Taxis
+c702436a-cdda-476c-8a2a-d33ec4c932c6,Port Anthonyfurt,Oman,Australia,,Restricted,Medium,15083,103548,71.16950084790298,12.42972837978003,UberEats,Ola
+69f85f4a-1087-4595-b17a-79c62c07e350,West Matthewville,Nigeria,Australia,4718450.0,Restricted,Low,36137,126754,44.973105902702336,6.125967030560048,UberPool,Local Taxis
+c670ad18-5f61-48d2-855f-be2f0af9c30f,Danielmouth,Papua New Guinea,Asia,6669187.0,Restricted,Medium,46661,261825,5.6389603259114365,3.578706283892505,UberPool,Local Taxis
+8a515eda-6ae6-48cc-89d6-84366c36ca4d,East Lindsayborough,Cocos (Keeling) Islands,Europe,8888644.0,Restricted,Medium,3247,466852,94.27978584325282,16.184768956986712,UberPool,Local Taxis
+2c27dcfa-e5de-4722-8aee-bca9e4fe92b6,North David,Libyan Arab Jamahiriya,North America,449911.0,Restricted,Low,7270,113270,63.00467586212327,15.630099411613603,UberPool,Ola
+65c646d3-709e-4f28-9301-7c508e30dfda,Rowemouth,Guatemala,Asia,5966516.0,Allowed,Medium,15689,45235,29.727533394740753,14.37826913341142,UberEats,Local Taxis
+cdc7d328-d519-4441-a520-fc978ce38e7b,Port Justin,Angola,Asia,,Restricted,Low,33327,195757,66.00988433256475,18.140366063321437,UberPool,Lyft
+50cda7b9-54e6-4b94-b9c0-8910fc12c8c0,Port Ebony,Belarus,Africa,2002418.0,Restricted,Low,16521,383918,157.27947570622007,11.345544502026977,UberPool,Ola
+4eb6c61a-b8d2-4219-86ca-b79565e5ad5a,Geoffreyhaven,Saint Vincent and the Grenadines,Africa,7181645.0,Restricted,Medium,15360,248411,6.75590382200418,3.5349006330426676,UberX,Ola
+bb79d9c3-3fb0-476b-8b86-1524aff2ef6c,Lake Johnstad,Austria,Asia,9921761.0,Banned,High,32166,387932,81.93928505206556,11.016220116748213,UberX,Ola
+819c4f95-6df1-4c0e-9343-3740a9625b58,Jacobview,Saint Martin,South America,4666118.0,Banned,High,25998,285292,7.688820679493452,14.290813170546375,UberPool,Lyft
+e2ec7493-9ad9-4018-b671-2b07d7731739,Lesliehaven,Indonesia,South America,5098771.0,Allowed,Low,38304,113207,65.97490175366332,13.749238510133253,UberEats,Lyft
+622cf01c-c494-4e56-bf31-c5ad57cde55a,Port Angelica,Armenia,Asia,3159526.0,Restricted,Medium,8881,315239,8.0314198922216,10.2523204047667,UberPool,Ola
+e7f238be-4475-4ed3-909d-23db39923453,Sherryville,Egypt,North America,3596844.0,Restricted,Medium,26724,7773,26.18599479536645,19.244701059147765,UberEats,Lyft
+54942368-0db1-4d4c-ac74-941dde3cd934,Smithshire,United Arab Emirates,Asia,9089090.0,Allowed,Medium,36821,108534,5.071811738551552,12.487418571404552,UberX,Ola
+dff844d6-ec04-4418-8c72-993010af0ae6,West Randyville,Lebanon,Europe,4752778.0,Allowed,Medium,39026,276673,15.273399937764266,7.256480821889179,UberX,Ola
+789ba6fb-ff7a-4baa-997f-40fea5cc66f0,Greenshire,Malaysia,South America,9663893.0,Restricted,High,31621,228926,52.901631100553004,2.155221042567302,UberPool,Local Taxis
+4fab0186-e558-40f8-8099-c9e1c9d973e1,Joeton,Morocco,North America,4994383.0,Restricted,Low,14689,334500,81.20023319426925,4.874679907733851,UberPool,Ola
+24d5ec93-5a0f-4f69-a9f9-fa672522f72d,Woodsville,Gibraltar,Africa,3498319.0,Restricted,High,38443,442350,9.286267715625224,12.173277039268235,UberPool,Grab
+8266ae93-caed-4598-bfef-807ad9c3fbcb,West Patricia,Central African Republic,Africa,5036327.0,Banned,High,43635,61925,13.755323157021062,5.0231756940284225,UberPool,Grab
+c43b244d-0148-4d64-95d3-0bba2d9cc780,Krystalshire,Italy,Asia,7160889.0,Restricted,High,36828,125508,428.9521858246476,13.115819439141212,UberX,Grab
+7a716260-a1ea-4b7f-b676-050bb42524ae,East Joshuaport,Netherlands,North America,4131042.0,Banned,Low,33227,42822,16.269906758027886,10.237987249301945,UberPool,Ola
+34a4040e-e43f-49ee-9a94-09747e02e19a,Yangbury,Cocos (Keeling) Islands,Africa,2969874.0,Allowed,High,1977,384416,61.23153100987623,9.849579516369452,UberX,Grab
+fa806ee5-a150-4601-ad59-1ec45d087d52,South Michael,Aruba,Asia,137175.0,Allowed,Low,43929,181865,82.64667583795527,3.3755287077952856,UberEats,Local Taxis
+6bea3ff1-4a7a-4968-a882-4e34ff2fde6a,Johnland,Ukraine,Africa,3519816.0,Allowed,Low,20338,237566,54.448955851901985,8.769168021694721,UberX,Grab
+e8bc4d64-50e2-4503-870a-b8783c095577,North Michael,Chile,Africa,1724496.0,Banned,High,28461,422508,44.524853197877135,14.743003171906834,UberPool,Lyft
+300e7943-f5d4-48bb-b967-dbc0dbd5aa6b,South Jessicamouth,Dominican Republic,North America,8682927.0,Allowed,Low,3939,44378,469.7261221665135,5.325641759886131,UberX,Grab
+681a8749-0ae3-4bd4-9ddd-59e12d757405,New Laurenburgh,Sao Tome and Principe,Africa,5627067.0,Restricted,Medium,16648,317940,17.724616084057157,5.113627235155687,UberEats,Ola
+cee5fcdd-9927-400f-a01a-0efb98a6d4b2,Jamesfurt,British Virgin Islands,Australia,1038869.0,Allowed,Low,39393,13725,43.43246243126136,11.286369992422076,UberPool,Lyft
+ddc71038-2c55-4c7b-b21e-f773df9af5e0,Port Hannah,Poland,South America,,Allowed,Medium,12860,309561,53.17927811697849,2.5677423223841496,UberPool,Lyft
+a84bedef-67b1-4f48-93ab-6739ad9bb1ec,West Brittneyfort,Uruguay,Australia,1543385.0,Restricted,High,21962,339402,92.43088460356162,4.2773023108361015,UberPool,Lyft
+bb55b9a1-0620-4ed9-8cc7-ef9f1c2a36a5,West Vincent,Georgia,Asia,8334629.0,Banned,Low,21668,488673,35.026101986313826,3.5416002473318344,UberEats,Lyft
+196e4f9f-78c2-4cae-ac76-5817a7c92c1c,Annaview,Guinea,North America,405631.0,Restricted,High,2912,85216,47.2407778811447,12.008674355933351,UberPool,Ola
+9eccc7c7-27e8-42f3-851f-160f022bf848,Port Calebland,Holy See (Vatican City State),South America,2763180.0,Restricted,High,24758,278180,188.8627260646026,5.111066180499004,UberEats,Grab
+6fa2c0a2-28f5-4075-b862-2218f7f052a9,East Stephenmouth,Bulgaria,South America,4756647.0,Restricted,Low,30808,375621,482.0451334997619,14.293276903283807,UberEats,Lyft
+6b231ea9-7c81-4416-9b43-8dc658666f2d,North Frankburgh,Heard Island and McDonald Islands,Asia,9272300.0,Banned,Low,21106,223966,75.80035606568654,15.589391424106017,UberX,Local Taxis
+15f395b4-62fb-41b1-a6a2-aeacc83b1d0d,Lake Nicholas,Mali,Australia,,Restricted,High,43093,116360,49.07099820393196,4.021249852871229,UberX,Lyft
+e2bf4be8-7fc6-491f-b173-5f7386f791ae,Jennifermouth,Latvia,Asia,7752005.0,Restricted,Low,13437,43486,305.9616337903258,10.476839264044507,UberX,Local Taxis
+b0ffba15-f49a-4cad-9686-fa0299bdeb22,Matthewbury,Sri Lanka,Africa,3554428.0,Banned,Low,46227,319326,75.85934306243,16.30899179306013,UberEats,Ola
+5662354f-0450-4b81-a75f-d8f1a26bc7fb,Timothymouth,Cayman Islands,Africa,9163536.0,Banned,Medium,21062,323597,77.9126158102306,19.558748161684264,UberEats,Local Taxis
+a8f535e4-ac39-473a-a43e-6539b068f050,Michaelburgh,Croatia,Asia,8563357.0,Restricted,Low,11578,478208,73.9238373272694,7.958337910406921,UberPool,Lyft
+3e29cc3d-5ea6-4381-8dc8-d20ae30d55ad,Tranport,Swaziland,Asia,,Restricted,Low,8337,453004,75.809163917105,18.66215412402732,UberEats,Grab
+8aff5bd8-6c8d-4a30-89bd-f73e7881c2bf,Walterhaven,Nauru,South America,5314546.0,Allowed,Low,7834,176624,34.759578544842725,6.521419345319181,UberX,Grab
+fb8b0b57-44af-4128-ae05-2c32fdc19ec1,Calebberg,Mayotte,Asia,8891842.0,Banned,High,31759,125243,80.19246629057432,15.883365652391483,UberX,Lyft
+e4dbd30a-4a93-4abd-a126-65004110b072,South Adam,Bulgaria,Africa,5991243.0,Restricted,Medium,14394,317082,497.5119822717874,13.80323913966614,UberX,Grab
+7c54c791-d3cd-457c-b955-71f3139d3b9a,South Patrick,Qatar,North America,,Restricted,Low,47075,340082,83.09256390600596,5.891543488882238,UberX,Lyft
+c8539005-6cfe-412e-acd1-9626345690f5,Arnoldstad,Holy See (Vatican City State),Africa,1186828.0,Allowed,Low,22611,106822,11.093517860811053,2.099018931087191,UberEats,Local Taxis
+ca00c450-7211-4ed6-8683-d58d472a4b87,Youngport,Finland,Asia,1626866.0,Restricted,Low,48443,411043,82.63028690701181,12.725765782707597,UberEats,Ola
+300b6c6e-c0ff-4bf5-b05a-03a4c45931d9,Lake Jessicaton,Greece,Asia,2834426.0,Banned,Low,18490,73971,297.90941984021504,2.898849208726177,UberPool,Local Taxis
+2eba77ca-9fac-4f51-8123-9be26801aecf,East Brandonmouth,Guatemala,North America,8363096.0,Allowed,Low,689,247525,43.73252389129128,12.222683435030335,UberPool,Ola
+0beea077-a42d-456d-bcd4-e740190490c9,New Jeff,Tonga,Africa,9036078.0,Banned,Medium,31951,332606,58.52914575502642,8.281662886372676,UberX,Grab
+d1fe856b-748f-4b51-955a-d6791742fb7e,Mitchellborough,Heard Island and McDonald Islands,South America,6746285.0,Restricted,Low,29185,35574,93.86281313241514,2.824094620938717,UberEats,Local Taxis
+8cf3bcc1-2041-4f8b-b01e-e32cdfe0da83,Port Kelly,Belgium,North America,3441845.0,Allowed,High,33751,397369,265.4289690218312,19.394744127233004,UberPool,Local Taxis
+a0dc170a-09d8-41d9-aae0-a09c9e54b001,West Michaelside,Northern Mariana Islands,Asia,7958364.0,Allowed,Medium,30945,344619,45.46037103413482,12.17084674451715,UberX,Grab
+5c746238-f5d9-4c75-bfb4-2a1a265297e8,Lake Keithburgh,Gambia,South America,,Allowed,High,958,311553,42.502705520536814,16.713799352383198,UberPool,Grab
+f39887f2-021d-4b13-9865-005461d42eaa,Staceyberg,Mauritius,Asia,5558485.0,Banned,Low,44215,287177,70.72904380707811,16.0882123402846,UberPool,Grab
+59759edd-709f-4558-b8ad-83cfc35b3c07,Petersonside,Turks and Caicos Islands,Australia,8835491.0,Allowed,High,30512,208677,86.1695750078476,14.807846824631518,UberEats,Lyft
+5777c222-e095-4376-bb60-23a4c18148a8,Edwinfort,Guernsey,North America,693936.0,Allowed,High,47298,119075,27.822799502361637,5.703508275254116,UberX,Lyft
+c16c4bba-e40e-413f-84c3-63b44b320720,Bellfurt,Saint Vincent and the Grenadines,Africa,5461349.0,Allowed,Low,22454,115505,47.174034812465614,18.33209490892098,UberX,Local Taxis
+a71e12c9-aa73-459c-ac26-b950300f6956,Ashleybury,Gabon,South America,4931382.0,Restricted,Medium,37916,176415,440.60352434937937,18.185240477224287,UberEats,Ola
+dbb1c5ae-9d97-43e9-95ec-145d56a681cb,New Edwardchester,Sierra Leone,South America,7256568.0,Banned,Medium,12161,442617,66.10543157948484,11.459897628688655,UberPool,Ola
+16542bde-594a-4168-880c-e48593621d52,Lake Keithfurt,Wallis and Futuna,Asia,6738701.0,Banned,Low,46618,210085,91.92256361896155,10.62879138032944,UberX,Ola
+14bc5635-ac1a-4d32-97bd-db1fd4f0b1b0,North Robertfort,Romania,Asia,4398817.0,Allowed,Medium,27282,153691,72.03075532887675,9.12029748264945,UberX,Local Taxis
+2574b53b-7a78-4b33-9e0b-36bcbc4fdeb7,Peterside,United Kingdom,North America,4324927.0,Restricted,Medium,40955,95483,68.02087988799866,17.567595881406653,UberX,Lyft
+e9a46586-747f-41fc-93b2-62f2f6460596,Davidland,Monaco,Africa,5695885.0,Allowed,Medium,22799,100728,12.727405419989017,16.52078518683429,UberX,Local Taxis
+1a28a7bb-1a78-4852-9c82-85b90578c623,East Beth,Botswana,Europe,6680298.0,Allowed,Low,27912,304152,58.11807380897355,2.8509734087884206,UberEats,Lyft
+d04da4ef-0af0-4652-a82d-b9b7366f88f7,Jenniferstad,Chad,Africa,9514328.0,Allowed,High,26659,245509,94.20449021997457,7.022405937530785,UberX,Ola
+0fc2db8c-ee0b-4374-a253-ffe267889f0b,Sarahhaven,Bangladesh,Africa,4758225.0,Restricted,Medium,30866,216590,36.98141142907127,6.983588650847611,UberEats,Grab
+d7dd0324-bf5e-464b-8f3b-d0dc49f14d46,Cantrellburgh,Cyprus,Australia,4924795.0,Restricted,High,8583,356729,91.99720745975691,6.056096163067815,UberEats,Lyft
+8cd6bce5-6bf2-4a04-8ba7-a9e4cbad8b71,Port Brooke,Mexico,Europe,4587219.0,Banned,Medium,48722,484835,69.0531817115595,12.871530373134735,UberPool,Ola
+7fd17ac0-cfbe-492b-8de9-4b7efad0543c,Wellston,Korea,Europe,9482283.0,Banned,Low,49022,41536,74.67280248010994,16.73178523396824,UberEats,Ola
+772a5368-f69d-44ae-a631-7948ce4f4c2d,Zacharyfurt,Saint Lucia,South America,7647863.0,Banned,High,32091,137904,38.703821504083905,13.383587383176076,UberPool,Ola
+b2f7fd47-ff1a-40cb-af16-803ff93bd1b3,Lindachester,Russian Federation,Europe,1226634.0,Restricted,Low,20281,343155,116.33147948650264,14.815798822723746,UberX,Ola
+40b99de8-c39d-4b23-975c-bbd9ab97560e,New Sharonhaven,Benin,Asia,9210158.0,Restricted,Medium,37475,166212,35.04923075690879,11.385079114820373,UberPool,Ola
+d021595a-b425-4381-b839-b9d28cf453a0,Gregoryfort,Ireland,Asia,7267169.0,Banned,Low,28852,397031,58.87419762448024,15.838049640788835,UberPool,Lyft
+6d79f932-d589-4798-809b-aa5031de5f8a,Port Christine,Svalbard & Jan Mayen Islands,North America,1548119.0,Allowed,High,27762,319024,88.29316092079544,3.8107907893339785,UberX,Local Taxis
+ab2c88f9-3ba8-4645-885f-cd54f287ad3a,West Kathleenchester,Barbados,Asia,1035092.0,Banned,Low,22790,246908,6.943978751978517,10.334681918042783,UberEats,Grab
+2de63967-82d9-480e-aeaa-b12ede0640e1,East Justin,Christmas Island,Africa,6440611.0,Allowed,Low,4099,237012,15.17620624251001,10.768639624052044,UberPool,Local Taxis
+201f925b-43b2-4893-a82d-47a490a5ee9d,Smithville,Albania,Asia,,Banned,High,32268,430346,48.36346227947334,4.148639436147635,UberEats,Grab
+756ae216-4545-43a3-98a4-ff36a7884e55,Brownville,Jordan,South America,1784240.0,Banned,High,23816,357947,89.03351415435625,13.525027956423623,UberPool,Lyft
+a1818128-74ec-444f-94ef-907668548ab8,Davidsonfurt,Indonesia,Africa,2927876.0,Restricted,High,4605,96810,6.056835106774967,14.336067965835548,UberEats,Grab
+3ff174e8-54ac-4845-87be-beda5f1e3bcb,West Joshua,Syrian Arab Republic,South America,6708235.0,Banned,Low,26087,259095,60.16710983843693,13.11356906272546,UberPool,Ola
+451d6023-4757-4edb-9417-a6518eae281b,Peterburgh,Gambia,Asia,2080038.0,Restricted,Low,1950,185598,53.32267159761153,17.45628333960538,UberEats,Ola
+4eedd235-0a0d-45ac-bd53-81177781492b,Brianstad,Jamaica,South America,7913495.0,Allowed,Medium,28784,226847,67.09150716820065,2.96764129976284,UberEats,Lyft
+d9ff6ab4-ce54-4ad5-931d-a921c6bbcb00,East Jessicashire,Mayotte,Europe,4437608.0,Allowed,Low,8803,281784,71.31045899233203,14.266314984156645,UberEats,Ola
+5903ea0f-5827-47d4-9b92-0074341dc46e,Danielmouth,Myanmar,Asia,7468989.0,Restricted,Medium,48973,466182,99.81763287926064,2.8348467909902237,UberPool,Grab
+39e16692-1923-4f91-a0b8-e0191681ef4d,North Gailchester,Guatemala,Australia,2707005.0,Banned,Medium,34611,439011,89.17040581025199,6.671601623310203,UberX,Lyft
+9202fcb7-6cf6-4a39-b327-74a95b59301a,North Aliciahaven,United Kingdom,Australia,7739435.0,Banned,Medium,30854,495512,74.9476096254229,12.789154951402319,UberX,Grab
+6f1cd5a6-4db6-4faf-80fb-97f9e066c1d2,East Ronald,Grenada,North America,4077693.0,Restricted,High,5661,212543,53.15962396902061,13.782877553444022,UberEats,Lyft
+d35a8d62-9a73-4f1e-8014-b494ef5311de,Hillstad,Togo,North America,6668591.0,Banned,High,46671,198068,59.89467705710751,14.323301322081548,UberPool,Local Taxis
+0b97e9d9-0c94-4de2-9962-0196c8e21110,Vasquezshire,Kazakhstan,Europe,8145066.0,Restricted,Medium,1084,49096,18.361418157442106,18.437001241786028,UberPool,Lyft
+9c617301-b96a-421f-a404-68700f5f20a4,Leemouth,Timor-Leste,Europe,7803672.0,Allowed,Medium,27069,184361,79.66592360414762,9.376367762533878,UberEats,Ola
+7e8fdf2e-80e8-4744-9ebf-e2c8089611ad,Taylorborough,Jordan,Europe,9179454.0,Restricted,Medium,10902,412256,61.05874328159743,19.38759357465272,UberX,Grab
+4d97efee-a106-4f72-ae37-8f229c34e213,Port Richard,Pitcairn Islands,Australia,,Restricted,High,7187,496211,68.18414204560762,12.505067342643693,UberPool,Ola
+fa19750d-13c6-4687-a18a-a6965c800a8c,East Bradleymouth,Italy,Africa,1138670.0,Restricted,Medium,45609,135865,76.37357463936851,10.992428340475003,UberX,Local Taxis
+6933d5a0-1ba9-4ad4-a2e1-3f324b354788,North Nicolas,Montserrat,North America,,Banned,Medium,9848,368303,71.72724603216747,19.368108677792655,UberEats,Ola
+23656f6e-d42f-4ee0-8d4d-44ecdb2fa682,New David,Micronesia,North America,4323477.0,Banned,High,42302,387011,319.1708214464985,6.867254108128094,UberX,Ola
+b89c4c6a-64b2-496b-979d-d04ecabce02d,Sotostad,Hong Kong,North America,5311238.0,Restricted,High,45705,328153,19.737784317805552,14.385474759716427,UberEats,Ola
+ecc77b1f-71cf-44f9-b949-a84beeda56d1,West Danielhaven,Luxembourg,Africa,,Banned,High,40810,124153,10.367808785421508,16.73670059528544,UberEats,Grab
+a0712467-c52d-4ff5-b3d4-d2956a4de4ca,Michelleview,Korea,Europe,1876109.0,Restricted,High,27246,164432,7.574969910435398,14.136176671738138,UberX,Lyft
+a1561863-7b28-4032-af98-5c9de5167dbe,Christopherside,Norway,Europe,4851583.0,Restricted,Medium,44783,126696,46.10228527314836,19.57455858652233,UberPool,Grab
+96791e7e-99dc-4840-8741-b68aa4718e8f,South Davidtown,Gabon,Europe,9590471.0,Allowed,Medium,40669,123990,27.65606383967875,17.706517595444446,UberPool,Local Taxis
+fa83ad6e-fcf8-42e3-9526-5250564c619c,Matthewville,Lao People's Democratic Republic,Australia,4684128.0,Allowed,Medium,27189,325172,32.630704740207975,19.25338455914901,UberX,Local Taxis
+1d34194a-79ec-4705-bd22-3281ba130483,Phelpsshire,Peru,Australia,4787526.0,Banned,Medium,15500,431302,26.717534933835104,19.737637293823713,UberEats,Local Taxis
+f65698f1-3435-47a3-bb8a-e8247a1b02fb,North Mary,Bouvet Island (Bouvetoya),North America,4568134.0,Allowed,Low,15386,373126,68.39337162995031,16.891878929147353,UberX,Ola
+d4e4bb28-5c99-4f0d-8614-326e3b0d8c5d,Rogerstown,Guinea-Bissau,Australia,8647282.0,Restricted,Medium,36534,351895,46.09454060225329,17.189135728500386,UberEats,Local Taxis
+c7ce773a-0345-4487-9fb4-dd96f99bc406,Port Ashley,Argentina,Europe,2578103.0,Restricted,Low,33067,301707,12.293918555304675,5.656699431763175,UberPool,Grab
+54bd2877-727c-47e5-b3c6-e39b6462f990,New Michael,Namibia,South America,5955968.0,Restricted,High,20920,316328,73.98229224664387,10.789600156712476,UberPool,Lyft
+efba550e-61f2-4c4e-9481-b8fb5f636c7e,North Kimberly,Seychelles,Europe,738824.0,Restricted,High,7767,82040,71.43211970152575,10.605105517777908,UberX,Lyft
+74dbe33e-5fd8-42dd-9400-bc9ea0e025f0,Lake Jamiebury,San Marino,Europe,7115084.0,Allowed,Medium,25847,228310,61.3295558434041,4.923789358522802,UberEats,Grab
+3138d5cf-9b94-40b8-b34d-ea7c5a0124a8,Johnsonchester,Iceland,Asia,2630669.0,Allowed,Low,32309,419412,137.3840009784043,17.057424986122648,UberX,Ola
+dedbeaec-aaa6-463e-b04a-a036f2592102,Lake Ashley,Chad,Asia,,Restricted,Medium,2986,469272,80.78921171506553,11.825898261606955,UberX,Grab
+1ee236b2-01d9-42b6-9ff9-5cab85b3b353,South Jesseland,Switzerland,Asia,4589048.0,Allowed,High,3968,468742,68.8915021011456,3.576222856478476,UberEats,Ola
+23d1a3be-bc01-492e-b660-0779e9df022f,West Donald,Angola,Australia,,Allowed,Low,23152,482900,81.39794677116305,6.522863158657628,UberPool,Local Taxis
+b76368ce-9b6c-4fc3-984f-35b362b832f0,Kelseymouth,Guatemala,Asia,574099.0,Restricted,High,32503,202452,69.23134980042683,11.42041502881623,UberX,Grab
+c7a961ae-913a-4ece-8dac-7e0a681ee350,New Keith,Christmas Island,Asia,6715939.0,Allowed,Low,19306,488602,40.48622771750336,8.312313865057297,UberX,Grab
+58bc0315-c0a9-4e21-a1f9-52524cb4d136,West Javier,Tunisia,Asia,2609416.0,Allowed,Low,30804,402957,40.83624519765122,15.186336156822241,UberPool,Lyft
+10fae728-e042-4c8f-9acc-19e85d169508,Anthonybury,French Southern Territories,Australia,,Banned,Low,21347,38829,8.78499152513874,12.968234953294573,UberEats,Lyft
+fa228c60-b90d-4aaa-99d9-afa0be29d2da,Jamesborough,Guadeloupe,Asia,8821505.0,Banned,Low,33393,188278,66.38997248606026,19.446446940873976,UberPool,Ola
+ac9e475d-257a-4850-ba15-bede277f3025,South Michele,Norway,Australia,6404397.0,Allowed,High,14565,162416,30.668917817432426,5.6230481217294335,UberPool,Local Taxis
+cefe9cb1-34ec-4853-88a8-7bd8ff70b212,Sarafurt,Iran,North America,1191701.0,Banned,High,28699,399913,33.257421329168096,8.05978314121203,UberPool,Lyft
+360349c7-b950-455d-8300-df23dee55329,West Danielleshire,Nauru,South America,1618571.0,Allowed,Medium,48276,126737,89.21643630269119,16.470092158647134,UberX,Lyft
+a7644836-1fcd-43f7-89ed-cdf535f82d72,Whitakerside,Solomon Islands,Europe,8316783.0,Restricted,Low,36291,464051,63.91991427808283,3.4355732165336894,UberEats,Ola
+f91e836b-3820-46e6-b60a-6e14b87a5cb0,Port Fredville,Gabon,Africa,125860.0,Allowed,High,49940,344605,46.82946916593846,3.526136200126852,UberX,Lyft
+e9d0e844-d924-443b-b216-74bec29c09f5,Padillaland,United States of America,Africa,,Restricted,High,40721,497249,38.83696800278123,15.09472759083344,UberPool,Grab
+6e4ff969-470f-413b-bc22-d89333c46aad,New Colleenfurt,British Virgin Islands,South America,,Allowed,Low,44246,274259,43.073452358227065,5.116989033627644,UberEats,Local Taxis
+6c41b373-0d21-4508-a83f-23e8899ae687,New Christopher,Tajikistan,South America,5773094.0,Banned,High,44414,244887,38.784741252926096,13.347213986724128,UberX,Local Taxis
+bd240071-04f2-4269-9694-54c62eaca1fd,North Patrickborough,Puerto Rico,Australia,6294080.0,Restricted,Low,25278,106411,7.987274634308122,6.950437181011281,UberPool,Ola
+5eab82ff-1daf-484f-b873-9ea26ba4427f,Emilyside,Northern Mariana Islands,Europe,1028935.0,Banned,High,16387,219084,14.69694182900651,9.994778738823324,UberEats,Local Taxis
+5b30333b-ffb1-4a81-acb7-3c00da2cf5bd,Woodsstad,Chad,South America,3130156.0,Banned,Low,36630,454308,90.34634491862889,5.008067275684479,UberX,Local Taxis
+0566ecb7-d594-472f-920b-616c736d27ca,Warrenview,Cameroon,Australia,4648273.0,Banned,Medium,15934,444020,36.89584078475899,13.902748510380807,UberEats,Ola
+29a807c2-efa2-4b25-8d14-d0e48334f4d7,New Jessicachester,Ukraine,Asia,9852170.0,Allowed,Low,13343,84615,98.79490619996315,17.51553235052748,UberEats,Grab
+dc1e6c38-c512-4b75-9051-65fbbe48f0f3,Wendyview,British Virgin Islands,Asia,8839222.0,Restricted,Low,25516,400519,45.73031601194088,17.25017028951676,UberX,Grab
+f2b2afdb-34bb-448a-83f9-6599d5d8fe03,East Chad,Tanzania,Africa,1902097.0,Restricted,High,48613,420221,27.05154925843435,11.088170162380639,UberPool,Lyft
+b8203531-198e-4f6f-af45-39b4b8c169b0,North Kyle,Iraq,Africa,6533257.0,Allowed,Medium,22694,163755,25.01345051603486,12.037583044066887,UberPool,Grab
+54b82e3a-5de7-4db4-9076-3558ee01b736,Banksborough,Turkmenistan,Asia,7236500.0,Allowed,Low,24441,172736,90.86609358395172,13.811880071414507,UberPool,Lyft
+0ac8a578-ffa0-482d-81f0-6c8a4f7eb1be,South Stephenside,Turks and Caicos Islands,Asia,472679.0,Restricted,Low,39953,473304,84.69344829760712,3.835714629078604,UberEats,Local Taxis
+952f2421-1b83-4d3a-bdfd-99cc723ca4bb,North Brettbury,Austria,South America,2731398.0,Restricted,Low,42807,436247,13.728539446656592,17.386831060582125,UberPool,Local Taxis
+780c797b-f657-4be2-8a31-57fef8ca121c,Lake Gregory,Japan,Africa,3608869.0,Allowed,Low,12858,162519,136.84487556608923,16.360276375443398,UberX,Local Taxis
+6ad0eb6a-2f61-48c0-9eec-bc12680278a6,Connermouth,Angola,Asia,8562891.0,Allowed,High,42597,279821,82.14791740739192,3.7538638149919574,UberX,Ola
+2dac2d5d-934e-41cf-a674-e1d9a839ed63,Lake Christinaberg,Singapore,North America,,Restricted,High,19018,269657,12.042586553017056,16.876555668565796,UberPool,Lyft
+9e7fdcbc-a291-467d-9ce3-b44d8bf63a09,Victorfurt,Kiribati,Africa,2398467.0,Restricted,High,16161,142776,97.41108141489163,14.94598185541157,UberPool,Local Taxis
+c4718926-d6de-450a-b917-52969675e633,Smithberg,Nigeria,Africa,589760.0,Allowed,Medium,24076,68442,85.66126991303861,15.308879882594697,UberX,Grab
+44ca35c8-751d-4bcc-b3ec-40fa9ac026f0,South Karen,Yemen,Australia,7997338.0,Allowed,High,46775,467217,35.69288707728677,11.155827995531446,UberX,Ola
+924e454f-773d-455e-aca8-0046ca87e2f0,South Patrickmouth,United Arab Emirates,North America,3473353.0,Banned,Low,5656,413275,90.92051330960041,6.722275297607616,UberPool,Lyft
+282244ab-1b9a-4a20-acea-6f9cf173c110,Danielside,Andorra,Europe,4008735.0,Restricted,Medium,18481,139530,85.75530974136002,11.564315169288673,UberEats,Local Taxis
+d4135ab0-5702-4684-ae44-583c6907797f,South Nicoleshire,Croatia,Asia,9775022.0,Banned,High,44592,72127,12.362158531211481,17.127924402118516,UberEats,Grab
+ccaca5c3-a246-40e8-a1fc-93a345753595,Williamsshire,United States Virgin Islands,Africa,880266.0,Restricted,Low,7035,153994,72.79440910456017,5.049099082827489,UberPool,Local Taxis
+c3c1def8-db22-41cd-a732-278c895f3ae4,Newtonmouth,Nauru,South America,1623973.0,Restricted,High,41535,12468,58.87859007724668,18.009565459591855,UberPool,Local Taxis
+5b3f1499-787a-4129-97a4-b7a099dbf533,Lake Amber,Mozambique,South America,5694244.0,Banned,Low,31606,496821,36.855767396542646,18.596211412011662,UberPool,Grab
+bd24dcdc-b47e-431d-a2ce-dc4a7b855d0b,West Joseph,Iceland,Asia,8046431.0,Allowed,Medium,15125,98311,98.93756521325531,16.469441709291317,UberPool,Lyft
+cda1c6f3-061e-468c-b702-f906c9db6f74,Jasonfurt,Iraq,Australia,6574362.0,Allowed,High,42743,445443,88.91925981832352,10.28131435955324,UberX,Local Taxis
+74fd509d-e339-4b90-a4d4-98e797d36cca,New Richardview,Georgia,South America,6938255.0,Allowed,Medium,45413,58803,50.443664169900174,17.997747668109863,UberX,Local Taxis
+f5ce1022-57a4-419d-8ea6-954b700000ef,Jayside,Cameroon,South America,1759251.0,Banned,High,25971,154035,81.36276629566575,13.419680376328913,UberEats,Lyft
+7350d0b6-b87a-44c7-9335-af74c6113d3f,New Heidi,Hungary,Africa,7291223.0,Allowed,Low,20432,206393,90.34700196809771,19.723618759673993,UberEats,Ola
+a61c2b24-1ff8-4f27-871e-087cdf94fccc,Rodneyberg,Switzerland,North America,4019764.0,Allowed,High,22137,487996,36.42232222542438,19.83678481841441,UberEats,Ola
+21bb8cfd-3487-45c6-86bb-b4d4c2d30647,West Shari,Poland,North America,4171575.0,Banned,Low,36336,416365,36.65691385279783,11.465074126388995,UberX,Grab
+ad86f523-0920-48ad-b061-8a73a2891915,Port Amandaburgh,Lao People's Democratic Republic,South America,1264157.0,Banned,Medium,15768,215463,44.96089841348842,17.121238535204753,UberX,Ola
+dfef7b54-8ccd-42d8-9216-2db7b44839f4,Lake Phillip,Timor-Leste,Asia,3947404.0,Restricted,Medium,37950,240982,59.83117233375728,19.017194290521733,UberPool,Local Taxis
+63e6277a-7df0-4315-8206-7926843d25f7,Bowenmouth,Montserrat,Africa,,Restricted,Low,22037,487681,55.12529120529594,10.381826992190431,UberEats,Grab
+56e3b727-24f3-4002-b113-121904b35f6c,Heatherhaven,Jamaica,Australia,3823972.0,Allowed,High,40374,166135,24.139732819997423,15.473623866132527,UberEats,Lyft
+f211cd32-4ec0-44cc-8c0c-4ca33b244047,North Barbarabury,Libyan Arab Jamahiriya,Asia,5716407.0,Allowed,Low,12064,259634,80.25685090810238,16.38674639594816,UberPool,Local Taxis
+9b8c0328-30ab-4657-a6f3-759d3dd113b0,Jacksonmouth,Gibraltar,South America,9134575.0,Banned,Medium,40534,99826,33.22764292560001,13.906772336859875,UberPool,Lyft
+8be830a3-c3f8-4f72-bc85-0d614fe3177a,Wadebury,Djibouti,South America,3303178.0,Restricted,High,32658,126301,80.39439107274386,9.327327041121944,UberPool,Ola
+de160a6b-103b-4e4d-9e29-c6efaa52972d,Port Michelle,Monaco,Australia,5073725.0,Banned,Low,41520,193373,13.775565205222987,6.40682280342924,UberPool,Local Taxis
+a05e8816-1d23-4766-9bd6-0a0deeebfcc3,Port Evanberg,Uzbekistan,Australia,7479071.0,Allowed,Medium,23381,126068,45.47670114321771,4.121467723742881,UberEats,Local Taxis
+0d8e6c30-927b-41ef-abf3-f5a71f155b93,Wardside,Latvia,Australia,2370779.0,Banned,Medium,46599,424834,28.15225499934881,14.16254163484961,UberX,Local Taxis
+bd381787-0154-47c0-85b1-75e6b38e9088,Scottberg,Liechtenstein,Africa,,Allowed,High,12168,99183,72.5817697735492,9.698965698745935,UberPool,Lyft
+d2ad964f-1d0d-4edb-a89a-adc834f84c6a,Josephtown,Lao People's Democratic Republic,Australia,6168775.0,Restricted,Low,37924,232248,400.7299283189428,12.921434379164268,UberPool,Ola
+73008a4c-ab4c-4eb1-b20f-356df51555a7,North Joshuafurt,Congo,Africa,1100538.0,Banned,High,11455,65331,53.713746276730596,16.365050995242406,UberEats,Ola
+4fdb7ac7-b11d-4822-9d5c-a3205a7033fd,East John,Tunisia,Africa,2321640.0,Allowed,Low,45794,237649,71.10887538145813,9.974220647865142,UberEats,Ola
+888abc74-cd18-428d-8c58-71c2c2dd6701,South Sheila,Romania,Africa,,Allowed,High,14495,289082,76.2620101964087,19.153820495414838,UberPool,Grab
+22b2faf5-53f4-48de-8abd-f25ca23c2bb7,West Chelsea,Montserrat,Asia,8136541.0,Allowed,Low,32394,78129,46.334554404796314,4.815179242856543,UberPool,Grab
+9e24e3b6-f0e8-4936-baf1-20a95a7124da,Bowmanchester,Central African Republic,Australia,7742959.0,Restricted,Medium,32450,150988,34.408817697229544,11.649136663441567,UberPool,Lyft
+e61e6eca-7dd9-4733-bcb7-b7c7c91cc150,Mcdowellfort,Cambodia,Europe,647821.0,Banned,Low,30706,82073,67.40872972928145,6.869751892607232,UberX,Lyft
+877db2df-2af3-4fd1-b93b-f1f6caac04fd,Dustinstad,Kyrgyz Republic,South America,2684120.0,Banned,High,29965,485113,9.887878603113,5.72306945411373,UberPool,Grab
+ad96bef1-1ccc-4461-9891-d4314e90c051,Knightmouth,Bahamas,North America,1140367.0,Allowed,Medium,45186,499341,23.474326274290576,13.715560214488692,UberPool,Ola
+878debb7-9f76-4ee4-9688-100845fb940e,Douglasfurt,Niue,Asia,3230605.0,Restricted,Medium,43028,271604,89.37103269224825,14.97646091719885,UberX,Ola
+b8fdea72-ca02-4b94-9aef-158242f379be,Holtborough,Falkland Islands (Malvinas),South America,2984039.0,Banned,Medium,6501,55559,64.1939867323227,10.457453455597351,UberEats,Ola
+ea75f0a3-7eb2-4268-b2dd-bf909f351e0a,Bergerview,Nauru,Europe,9921017.0,Restricted,Low,41308,473864,92.88619265809452,3.019148393027857,UberPool,Ola
+0597a84d-333b-43a7-9465-d0c57cde7bab,Lake Loretta,Lao People's Democratic Republic,South America,3595202.0,Allowed,Low,26938,293398,88.32102140147978,10.290030017713288,UberX,Local Taxis
+21ee50a1-d759-49ca-88a1-fc0709455a37,Caitlinchester,Argentina,South America,7334985.0,Banned,Low,32250,157173,79.11684226561044,8.257369131890956,UberX,Local Taxis
+3e3e20c2-07d0-49ae-81ac-a3f4a69a95f8,Bennettview,Palestinian Territory,Asia,3132348.0,Banned,Medium,23231,93025,23.382410221804655,12.104969964888367,UberPool,Grab
+ae2bfc51-b4b7-4a29-bad3-b542ec29456f,Philipburgh,Lao People's Democratic Republic,Africa,7275401.0,Allowed,Medium,43820,103987,52.287512525329625,5.6238224317737,UberEats,Ola
+d2900cb1-7465-4c93-85a8-209cbb3c7992,Whiteport,Lithuania,Asia,1671467.0,Banned,Low,18520,406574,392.6075385113669,10.81799677910259,UberPool,Ola
+5c3339ff-40d0-4685-914b-cc08a7f3a1b8,South Joseph,Mauritius,Europe,4083336.0,Banned,Medium,22014,487232,98.44507362471606,14.011422996076549,UberEats,Ola
+06996ba0-4a1f-4c87-aacf-18c58d96c161,Andrewsshire,Svalbard & Jan Mayen Islands,Asia,3107442.0,Banned,Medium,38830,312318,56.996209986303136,8.180169547158869,UberPool,Local Taxis
+39a92107-597e-4842-a182-89c23d3c703f,South Michael,Kazakhstan,Europe,,Banned,Low,45080,494233,92.07130747313931,9.737722117257604,UberX,Local Taxis
+ba9f3d27-a12b-4549-963e-a98dc7687e37,Burtontown,Estonia,Asia,3620650.0,Restricted,Low,35853,119235,81.05463433659068,16.854875724725048,UberEats,Local Taxis
+b3b87038-2ad2-49f8-9843-a4acd85ea45c,Lake Melissa,Equatorial Guinea,Africa,865044.0,Restricted,Low,28430,84779,40.95079924579525,18.466732990880406,UberX,Lyft
+fe650983-050e-4a58-afdb-bf76024a73f5,West Courtney,Armenia,Europe,,Banned,Medium,3628,89022,92.452603014133,13.273124950624068,UberPool,Lyft
+e5ce4284-fdb6-4b6d-bc1e-1b59950b872c,Benderbury,Ireland,Asia,1963766.0,Restricted,High,27886,381503,146.48848740087334,9.198541334129523,UberPool,Ola
+55f94bd6-d5d1-4604-bac6-ec72ef862826,New Johnbury,Honduras,Asia,2960321.0,Banned,High,42941,403119,213.34188877195666,8.892524160842036,UberEats,Ola
+41c93fa0-30c1-46d0-8cb2-561e1288b003,Port Robertport,Ukraine,North America,5684829.0,Banned,Medium,13592,302404,86.02961242422987,10.09479230667535,UberPool,Ola
+f2c24a27-2527-4eff-9c0e-74dc8af37e57,Adamsbury,Italy,Europe,4021912.0,Allowed,Medium,28890,244507,44.82798796520816,3.7436363266305634,UberPool,Lyft
+fc4c2310-2f47-4c4b-b958-902bccf83216,East Brady,Nigeria,Asia,828435.0,Restricted,Low,23759,435548,40.45286307250129,3.4239107605655663,UberPool,Ola
+d67bc88d-d78c-4f91-82cd-15f886b34cd7,Traviston,Wallis and Futuna,Australia,2680863.0,Restricted,Medium,38625,355465,51.53208308813347,17.412977796958607,UberPool,Ola
+4d7e356d-14ed-4f16-bc95-f82d593b27ff,Port Amanda,Guyana,Africa,,Restricted,Medium,37079,301771,11.07865225521511,5.106042226093782,UberX,Grab
+3e0685fe-c754-4acc-910c-939abb86fe35,East James,Reunion,South America,9247259.0,Allowed,Medium,43006,74313,27.519704023027867,12.29219444999929,UberPool,Ola
+722d4150-8111-4fe4-93f6-19c875718696,West Cory,Belize,Europe,3858454.0,Restricted,Medium,38392,148386,71.90477356831194,19.434850105468932,UberX,Ola
+625e2a38-3c10-43e0-8afa-d479d2f50e58,North Edward,Vanuatu,Australia,,Banned,Low,47593,61059,10.28562671640399,7.362328117020292,UberPool,Ola
+795d00a2-c4f8-48e9-9435-71d2dcfe3749,Parsonsland,Falkland Islands (Malvinas),North America,3484100.0,Allowed,Low,8833,71422,96.17285653906903,11.305494600361037,UberEats,Ola
+d2114bdc-d6b7-4e46-95dc-f5b0cbe4cc56,Hoovertown,Montenegro,Europe,9590018.0,Allowed,Medium,28997,121069,15.063744285001263,14.394371782637135,UberX,Lyft
+56a7758f-0f88-4677-b276-f270423b653c,Bestbury,Kyrgyz Republic,North America,1570824.0,Banned,Medium,47060,327495,33.86103142609736,17.519910895112574,UberX,Local Taxis
+aa1ef993-8538-4e90-977c-fd8a46b80c62,West Leonardfort,Uruguay,South America,1447037.0,Banned,High,45996,356958,6.618279263960894,16.54646614242377,UberPool,Grab
+f9de533f-3d90-4317-9d92-40bc3d71ac49,Foxburgh,Sri Lanka,Australia,9680245.0,Banned,Medium,40183,344950,72.98109303442642,8.224846840688143,UberEats,Lyft
+9278e4ea-9059-4606-8688-ec6f3b7e20a5,Jessicaville,American Samoa,Africa,5559684.0,Allowed,Low,3127,305255,57.85731738104204,14.880305832272285,UberPool,Local Taxis
+3cd28d02-14e9-4e6c-93cd-cd488382c44e,Richardside,Yemen,Europe,1033356.0,Banned,Medium,16048,401846,346.405504328976,11.974680409273656,UberX,Ola
+79ec798f-2157-4f70-97dd-a0b87ce7fcaa,New Gavin,Iceland,Africa,7646338.0,Banned,Medium,7862,468852,53.81639837451833,5.549814412180633,UberPool,Local Taxis
+3d8e41b2-e71b-43f3-a81b-54060887d7e1,West Marcostad,Nauru,North America,4603930.0,Restricted,Low,42718,209329,401.41648209283164,14.834036575697173,UberPool,Lyft
+4801c55d-b6fd-433c-9730-01f9ce19f25f,New Gloria,Nepal,North America,1834906.0,Allowed,High,26026,240838,23.891455013011075,17.65302411473676,UberPool,Ola
+379f54e6-db2c-476a-9973-6c4f0716181a,New Nicole,Korea,Asia,6659383.0,Restricted,High,32640,489393,64.32163592500972,2.8346141157328306,UberPool,Lyft
+a431939b-702b-4fa0-8e48-2a34055baf1f,Brittneyfort,Djibouti,Europe,5176928.0,Restricted,Low,2837,304277,61.36305466149889,8.080285762296189,UberX,Ola
+04369605-ca42-4575-ac9b-3aa8a70cd707,Camposview,Wallis and Futuna,Africa,4456251.0,Allowed,Low,40504,207172,29.999581217790862,6.689537024043825,UberPool,Grab
+e3553e90-fb0a-4530-883f-6cbd80a10e01,North Marc,Netherlands,South America,6747822.0,Restricted,High,43006,196766,18.759500259480966,2.217294390019167,UberPool,Local Taxis
+628e4eea-9f34-422c-bc6e-6970d0268d1e,East Lisatown,Turkmenistan,Africa,4944410.0,Banned,High,32586,156963,14.688148743714072,3.9095855961462544,UberEats,Lyft
+dd67c015-f84e-48b1-8f2d-21ad492effb6,New Lindsey,Jersey,Europe,,Banned,High,46404,181645,220.0754297914478,15.025073153595448,UberEats,Grab
+544538d9-f204-4cb2-8b2d-49a1aac3ab67,Port Leslieland,Colombia,South America,6151509.0,Restricted,Medium,46156,150998,427.6828560058214,15.315366171518145,UberX,Grab
+18778b0b-ce13-4f3f-9e68-4efca1dc9caf,Emilybury,Turks and Caicos Islands,Europe,6916670.0,Banned,High,5589,204833,7.426112878335129,18.34278960702145,UberX,Grab
+1484e929-d955-442d-9229-c028cc338a32,Port Michelleview,Barbados,South America,7694727.0,Restricted,Medium,23445,104621,323.5735350087259,9.41136015569705,UberX,Local Taxis
+83c383b7-6cde-4a10-a13d-797284893ded,East Allison,Mexico,South America,7890707.0,Allowed,Low,38161,384523,12.6690223656624,10.585937482981521,UberPool,Ola
+73e2957e-83a9-4495-b19b-950aa5e4b510,East Debraland,Bhutan,Africa,1234525.0,Allowed,Medium,9122,131705,321.4452143959812,11.504223419754437,UberX,Ola
+75d91a14-046d-4464-9d22-e491cd4a7e3d,Duffyberg,Bermuda,Asia,9621402.0,Banned,Low,32448,449847,58.37551273983224,4.167616407869087,UberEats,Ola
+3120533e-80d0-4e59-b889-1aa880b0a405,East Sherryport,Cameroon,Asia,3132523.0,Allowed,Low,38033,240393,181.0065575413346,2.7847518119094614,UberEats,Local Taxis
+ee78c287-2b2d-48e2-81db-536416d0d437,Thomasfurt,Wallis and Futuna,Europe,7734204.0,Allowed,Low,44686,179140,8.660480854200117,3.6118616755056125,UberX,Ola
+eac8925d-06cf-4df6-bb70-2338c4f23214,Lake Annhaven,Afghanistan,Europe,8044346.0,Restricted,High,36930,18795,67.14494845353741,14.135058810201127,UberEats,Local Taxis
+be2f0dfc-1e62-4bc7-8e18-e38673e0a014,Lake Autumnville,Norway,South America,3165740.0,Restricted,Medium,16091,376077,69.68481189137543,17.500679167070732,UberEats,Ola
+a24000d1-f5a4-4b89-af49-b3737af2d6e0,East Tonyaton,Poland,South America,7785141.0,Banned,Low,41584,97389,24.056259340548152,12.673746142736722,UberEats,Local Taxis
+c89242e0-af35-41e6-8c16-84082e0d502a,Virginiatown,Senegal,Asia,5844580.0,Allowed,High,17378,167400,8.301409926086372,12.979910928337821,UberEats,Grab
+3aa1d4a9-3db5-4a57-9031-dccdbe7089e8,Brookeport,Saudi Arabia,Australia,3211122.0,Restricted,High,10100,144520,57.410316221341496,13.159439352729223,UberEats,Local Taxis
+13d15614-fff5-4ca2-b7c8-3fba636f6d69,Kellytown,Niger,Africa,1284729.0,Restricted,Low,27953,264798,90.86335635492273,3.9435770048681884,UberEats,Grab
+87239b93-eb0c-40f1-aace-4a426b8297f8,Millertown,North Macedonia,North America,3148832.0,Allowed,Medium,10621,407040,52.71598875125978,13.604983873171008,UberPool,Grab
+940b9547-198f-48fa-89eb-6fc94b618748,Michaelburgh,Norway,North America,5367735.0,Allowed,Medium,30418,464758,69.02151547233926,6.550753677339216,UberEats,Local Taxis
+89ae6f41-5d3f-4b1d-af09-2d85f85f8840,Jamesstad,Barbados,Africa,2017562.0,Allowed,Low,23977,75094,66.79516439284224,6.452325888400805,UberX,Local Taxis
+ff4a28cb-66ba-4e9d-a860-e2ded57a1aaa,West Kimberlyville,Burkina Faso,North America,411488.0,Restricted,Low,6418,40841,67.67273899027066,14.99392861631275,UberX,Local Taxis
+d58198f8-66fb-4355-abf4-e610c5da3300,West Phillipstad,Ethiopia,Europe,2983055.0,Allowed,High,33686,127671,42.09620217016857,13.26194814510302,UberX,Ola
+e64d9f40-2408-42d1-b6c3-d9ce6e1b3b47,North Marthatown,Tonga,Africa,,Banned,High,2262,13406,89.1273940129021,14.013832902118342,UberEats,Grab
+3cac3e95-3778-4c7c-92a1-51bf730debc5,Jimenezhaven,Lebanon,South America,3305074.0,Restricted,High,45129,82295,11.209040156509943,2.8585357606050277,UberEats,Local Taxis
+92222273-b479-4476-8339-a2d5650f73c6,Proctortown,Cocos (Keeling) Islands,North America,1656318.0,Restricted,Low,32197,374417,38.42812205116027,5.662149180042143,UberX,Grab
+05b7abdf-2f01-45ca-9410-a240da60afaf,North Rachelstad,Pitcairn Islands,South America,4690471.0,Banned,Medium,23931,350878,13.693938476298143,2.3539249922538947,UberEats,Grab
+d818fdaf-9f2e-4eb5-ad97-c0c1690626c4,Port Jodiside,Turks and Caicos Islands,Europe,5685232.0,Banned,Medium,20126,239413,16.649770226629673,2.3419159076414555,UberX,Local Taxis
+1037b536-68f2-4dce-b0c3-70148642da67,Lake Benjamin,Congo,Australia,9106382.0,Banned,High,38110,42434,27.132906127668644,7.527080199935722,UberX,Lyft
+630358a2-ac36-4c42-8a70-79c81e78a61f,Port Robertfurt,Uganda,Europe,9665557.0,Allowed,High,14714,443605,57.441170387724284,13.059638051819391,UberPool,Grab
+fadd6de2-9c77-4cc0-ad62-d9933f5944d9,Lake Scottchester,Cape Verde,Africa,6894026.0,Allowed,Low,2355,250174,170.7387541867643,14.069019642468797,UberEats,Local Taxis
+ac03f168-1205-449c-b947-aeadd9a9d0a2,Lake Donaldmouth,Northern Mariana Islands,North America,2357312.0,Allowed,High,19378,269511,82.24507819000246,18.502332555141795,UberEats,Local Taxis
+b93830d8-8432-461f-a147-cc5a2530d346,Port Saramouth,Faroe Islands,Africa,3966101.0,Banned,High,1126,170461,5.321746952004729,5.048688219286822,UberEats,Grab
+36319392-b153-4d55-9254-64335b0bee19,South Shannonstad,El Salvador,Europe,877275.0,Banned,High,20747,173514,57.26338095276971,17.772440552820193,UberX,Lyft
+dd6729ba-3151-4402-a28f-e993d8420321,Elizabethton,Peru,Australia,6462090.0,Restricted,Medium,11547,177357,37.90157949579407,9.981768140355431,UberX,Local Taxis
+97e11130-5818-4cf7-a428-967cde3765e9,Teresamouth,Turkey,North America,5879149.0,Restricted,Medium,42263,199155,91.49100154299484,12.063020837204597,UberEats,Grab
+48fbc149-c277-45f9-8021-11685d143611,Huntfurt,Vanuatu,South America,9109797.0,Banned,Low,3408,479040,45.30801667792058,9.55971715648025,UberX,Grab
+eaff68ff-6428-4694-8660-428a21e01f30,Lake Cassandra,New Caledonia,Europe,1003520.0,Banned,Low,39194,436748,70.81949516437116,5.05097376353403,UberEats,Local Taxis
+134028d5-68d8-4257-841b-2866c00e8099,Dominiqueport,Poland,North America,2971262.0,Banned,High,14825,351323,22.677557148722208,2.560297799426796,UberPool,Lyft
+dc3ac6fd-ee14-4cd4-8e0d-ec65b71c88ec,Port Kevin,Azerbaijan,South America,1357853.0,Restricted,Low,43716,394654,60.67969277798408,8.321648970474,UberEats,Lyft
+f50a96c9-a2a3-4094-87ab-bf32a313bf1b,West Zachary,Bhutan,Africa,3322638.0,Restricted,High,18635,216814,11.3457451015259,5.236628129798882,UberX,Grab
+3319c237-8753-4b38-8f7f-c07e970d3d87,Jonathanhaven,Madagascar,Europe,9061151.0,Allowed,Low,11658,429336,47.34784612852559,19.707531467303944,UberX,Local Taxis
+4f06b6b6-48f7-47f6-babd-6f6948d4f2dc,Ryanmouth,Philippines,Australia,8685487.0,Allowed,High,38382,354143,53.35373659674277,6.159756880684659,UberPool,Grab
+d01e4ca2-83dc-4dfe-b68b-097e4fe1acf9,New Tyler,Andorra,South America,8730921.0,Allowed,High,18359,196406,283.0857595641141,5.517984948989632,UberPool,Lyft
+3f911455-74c7-4f27-9216-4ff3caa1ae0b,Jessicaview,Honduras,North America,5004405.0,Banned,Low,5225,428726,92.82504826448731,3.7653814420667064,UberPool,Ola
